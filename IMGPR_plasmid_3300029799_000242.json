@@ -1,0 +1,276 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-12-08 08:23:17",
+    "id": "IMGPR_plasmid_3300029799_000242",
+    "name": "IMGPR_plasmid_3300029799_000242",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "IMGPR_plasmid_3300029799_000242",
+          "name": "IMGPR_plasmid_3300029799_000242",
+          "orientation": "+",
+          "length": 4929,
+          "seq": "GAGGCCACCGAGGCCAAAGACAGGGCTTGTCTTGTATTGCGGGTGATTGCGAGAGACGTATTGGCCGACGTGCCCGAATTCGTCCAGGTACGCGACGTAGTGCGTCATAGTGACCAGATTCCTTGCCTCAGAAACACGAAAGCCCGCTTGCTTGCGCATCGCGGGCCTCGGAAGGTAGGCACGAAGGTCTGACCCCTCATGCGTTGAGATAATTATTATTCGGCTATGACGGCCCCGTCAATCAAATTGACAAGAAAATTGGCAAGAATATTAACTTCAATGGGTATTTTATTAACTCGTATGGCAAGTTTCACAGCCCCGCAAGGTGCTGTGAGCGCAGCGCCTGGAGCCAGGCGCGCGCCTTAAATGTTTAGCCTTCGACCAGGGCAACCATTTTTGCAGTAGTAAGATCAGCCTCGAATTCCTCGCCGCTGATCTCGTTCTTAAACCAGGCCAGGCCGGTTTCAGTTGGGCGCTTGGTCTGGATCAGCCGGCAAAGGTCGCCGTTGATTTCGACCTGGACAATAGCCTTCTTGATCTTGGTAGGGTCTGCTTCTTTCGGCGTCTTCTTCCCGCCATCGCCGGCCCCATCCTCTCCGCCTTCTCCACCTTCATCGTCGTCATGCTCGGCGTCCGTCTTGCCGTTGAATGCGTCGATGGTATGAGGGTCGCGCTCGGTTCCCTCATCCAGAAACTCCCGCAACAGCTTGACGGAACCGCGTGTGATTTCCTGGTTCTCGTCTGCCAGCCAGTCGGCTACCTCTTGAGGCTTGTCCTTGTGGGCAGTTAGCAGCTCGTTCACCAGGGTAATGTCAGCGATACGGCCGCTATCGAACGCCTGAGCGATTACAGGGGGCAAATTGAGTAAGGCTGCGTGTTGCGTGATGTATGCCGGCGATTTGCCCCAGCGCTTGGCAATCTCGCCTTTTTTCATGCCTGACGCCAAACGCTGCTCAATGAGTTTGGCTATTTCTCGCGCCGTGTGACCCTCACGCTGGATGTTCGCCACCACCTGGTCATCAGGCACAAAGTCGTTGTCCACGATTGCACGGATGGTCGTCTTATGTGCCCATTTGGAGCCGCGAAAGCGCCGCGCTCCATCGTTGATGATGTAGTGTCCTGGCTTGTCCGGGTTCTCCCGTACCGAAATTGGTTGCTTCACACCGCGAGCTTTAATGGTCGCACCGATTTCGGCAATCATTTCAGGGCGAAAGCCTGGATTGTCTTCCAGCCGCGGTTGATGGGGATCTTCGTCAATCAGAGTAAGGTCCAGCTCCTTCAGAGCGCTTTCCTCAGCGGCCGCCTGAGTCTTCAGGAGGCCCGAAAGTTTCATACCACCCAATCCCATTCCGCCAGGCTTCTTCGGCGTCACAGCGGCTTCCTGGGGCTTCTTGTCGGTATTGGCGCTCATTGGATAACCTCCATCTTTTCAAACACGTACTGAGTCATTGCACAAATCTCTTTTGTCGCATCACGCGCAGCGGTTTTCTTGATTTCCCACACGGGAATTTGATTACCCAACGCCTCAGCGATGCTGTCACGTTGGCGGATGTCAAAAGGCATTACCAAGTCGGCATAGGCCTCGCGCAAGATCGCCATGTTTTCAACGTGACGCGGAATCTTGACGTTGTAGCGGTTCGGCAGCATTCCGAGGAATTGCAGGGCCGGGTTTGCTTCGCGCAGGTTCTGAATGACGGCCACCATTTTTTCCATGCCCTGCAGGCTGTATGGCTCCAGCTCCACCGGAGACATAACAAAATCAGCGCTCAACAGTGCCGATGCCATTACGTTGCTGAGGAATGGCGGCGTGTCGATCAGGCAAACATCGAAATACTGCGAAAGCGCCTCAACATGGGTGCGCAACAGCGTTGCAGCATCTTCCAGGTCAAGCTTTTCAATGTTCGCCAAGCGATCATCATTGTGAATCAGGGTGATACCCGAATTATCGCGGTCGGCAAAAAATGACAACACAAGGTCTGGCGAATCATCAAACATCTGGCTAGCGAACAGGCCGCACGCATGGGCCTCTAGGGTGTAGCTCGCGTTGCCCTGTGGATCGAGGTCGATCACAGCCACGCGCAGGCCACGGCGCGCACCATCGAACGCTAGGTGGCAGGTCGTCATGGTCTTCCCTTGcccccccTTCTGAATCGCATTTGCCAGTGTCTTCATCTTCATTTTTAAGATTCCGtttttttGTGTGCCTGTTCCCACTTCTTCACAATGAACGCCTGGTGCGCTGGAAGAATCGCCGTTACCCGCTCGTACCCGCTCGGGACCGCACTCTGCTCCTGGAACGCTGACCACACTCGCCGTACTGCCTGCGAGATTGCCCCCGCCGTCAATTTCAACTCCTGCGCGTAGTGCGCTTGAGGTTTGCCCAATACCAAAACCCCGTGCGCTATCTCCAGCGTCTGAGGCGATACATTCAGGTCTTTGGTTGTTTCCGCAAACTGGGCCTCGGTCATGGtttttttGGTCATGGATCATACCCATAATTAGCTCCGCACCTGGCAAGTTGATCAAAGCGGTGTCCGCCGCTGCATGCCAAGAAGTTTAGCTAAACTATAATGTACGGTCAAGGATTTTAGCCGCTAAAATTCATTTATTTAGCTaaaaaaaaGGCCCCATAGGGCCTTTATCGTCATTTCTCAGATTTCTCGCTAACCGTCGGCTTGGTCAACCACAACCCAACACTTGGCGCCGTTTTGGTCGTCACCACCTTCGGCAATAAACACGTGACCACCTTCGTCTACGGCGTAGGCTCCAGGACGTTCATGAACCGCATCCCGTAGGCAGTTTTTCCATCCATACACTTCACCTTGCCAGACCAGCACAACACCATCACGGTGATCCTGGTTGCCTGCACGCCATTTGGCGACGGTTGCGTGTAGCGCGCCGATAAGCTGATTCATTGTCGATTCCCTATCTGTTTGTAGGTAGATCCTGCCGACCCTTCGCGTGGTGAAATTGAGTTACTTAACGCCTTTGGGCTTGAACACCGACACAAAGAAGGTGAGTGCTACCAGGGCTGCGAAGTGCAGGGTAAATGTCCATCCTGCGTGGCTGCCTGGAGTGTCCCAGTGCCAAAGCATCAACACCCCTTGAAATACTACGTCGAGAGCCAGCAGCCAGCGTAGAACCGGCCAAACGAGCGCGACAACAACCCACAAAACCTTAACGGCCCCCGAGAAAGCCTTTTTAGTCGCACCAGGCCCGCTAGGCGCTTTTAGGGGTGCCGACTCAGGAACAGCATTAAGGGCCTCTTGGGCGCCTTCGCTACCTGGAAACTTGTATACGTTGTTAGCCATAACTTGACCCTTCCCATGCGATTGCATGAACATGCTACCTGCAAGCACCTGGCTTGGGCTTGATGTGTCCGCATCGGGTCAAGTGCCCCGGAGCAATCCGGGGCGCTTCAATCACCGTGGCGGATAAGCCAGGCTTTTTGCCTTCTCTACAGCTTCCGCTGAAAACTTCCCTTTGGCGTCACCTTCCAAGCTGCAAGCCGACAGGTTAGCTCGCTCTCTTAGCTGTTCCGCTTGGCGGGTCAGCAGTTGAGCCTTGTGCGTTGCTTCTGCCGCCTGGCGAGTCAACTCCTGAATGGTGTCTCGGCGCTGTTGCAGGTCTGTGGTTACAACCCCTGGCAGTAAATCAATCCAAGGCATAATACGCTGCTGATTCATCGGGTTCCGACTCCGGTCATTGACCTGGGCAAATTGCCCGGCCTTGAATTGCATTATAGGGCTTAAAGTCCTATTTTTCCATATTTATTTAGCTAAAGATCGGATTTTAGCCGCTAAAATTCTTATTTCTGGTGTCCAACCCATATGCGCTCTATGCCCGCCATATCGGCCAAAATAGCCCACGCGGCATAGGGAATAGGTGCATCGCCGCCAGTCCAGCGGCGGATTTGTCTGCCACCATGAATGCCTAACAGTTTTGCAGCGTCGGCCCCACTAAGACCTCTTGGCGGATCAATTCGCAAAAGTATTTCCCGAACCTCTTCCGGGGTAGGCTGCTCCCAACCAGCCGCTGGCCGGAAACACTCCGGCCTAATGTCAAACCTGACAGTATCTGTCATTCGCTGTCTCTCTTTTCTGTTCTGGTGTCCATCCGGGCTTTTGCCCTGGCCTGGTTGAGTCTTGTCTTTGCCGATTCAGCCCATTTCCGAACCTGGAACGCCTGGTGTGCAGGCAACACGGCATCGACCAACACAAAACCTGGGGGAATGCTCACGTCTAATTTAGACAGTTCCCTATCCAGTATCTCAAGAATGCTTAGGTCATAGGAAATATGAGCCTCATGCAATTCCATCGTGTGCATACAGGCATTAAGTGGACTGCCGGAATAGCAAACCATCAGGTCATAATCCCCCACTTCATCCAGCCCCCGGCGCTTGAGGTCGTCGTGCTTCGCGATGGATCGAGCAAGCGTTGCGCGGTATGTCTGTATTCGTTTTTCTAACTTCAACTTTCGCTTAATTGGCTCGCTCGTCAGACTGTCTAAATCAGCGCTAGAGTCGGGCACTGTACCCGCTGGTCGCGGCCCTACATCCTTTCCCCACGAGTACTGCGCCAGTAACTGCGCTATCGCCTCCTTGTCGGCTTCGTTGCGTACCTGGCTGGCCTTTTCGTCGAATGTCATTGGTCTGTCCCAGTAGAAAAAAGCCCGGTGGTTAACCGGGCCTTTTGATCAGTCAATGGCGGTCAAAATGGCCTGCGCTTCCGCGTGTTCCAGCGCGAATTCTCGCAACTTGTGGTAAAGGTCAATGAACCGATCTGACTCGTTTTCAGGGATGCGTGCCGCCAGAAGACGGCCCAATACGAAAAGCATCAGCGTGACCCCCGCAGCCTCTGCACTCATGCGCTCGGAGCAATAATTATCTGCGATCACCACATGCTGCTCTTTGTCAGTGTCCAGCGCTGC"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "IMGPR_plasmid_3300029799_000242",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 10",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 10",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "nan nan",
+        "start": 1,
+        "stop": 159,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000349054|korB|WP_120266787.1|stability/transfer/defense|regulation|Plasmid nan nan",
+        "start": 371,
+        "stop": 1411,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000041359|incC|WP_086799808.1|replication/recombination/repair|transfer|COMPASS|Homology nan nan",
+        "start": 1408,
+        "stop": 2178,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000352411|trfB|WP_120266786.1|replication/recombination/repair|regulation|Plasmid nan nan",
+        "start": 2181,
+        "stop": 2483,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "nan nan",
+        "start": 2664,
+        "stop": 2915,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000041360|kleE|WP_086799809.1|stability/transfer/defense|NA|COMPASS|Homology nan nan",
+        "start": 2976,
+        "stop": 3338,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000033325|kleA|WP_011205839.1|stability/transfer/defense|NA|Multiple|Homology nan nan",
+        "start": 3423,
+        "stop": 3686,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000315978|korC|WP_120266784.1|stability/transfer/defense|regulation|Plasmid nan nan",
+        "start": 3809,
+        "stop": 4084,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000003939|klcB|A0A0C4WRY7|stability/transfer/defense|NA|COMPASS|Manual nan nan",
+        "start": 4081,
+        "stop": 4647,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000278462|klcA|WP_120266783.1|phage|stability/transfer/defense|Plasmid nan nan",
+        "start": 4696,
+        "stop": 4929,
+        "strand": -1,
+        "contig": "IMGPR_plasmid_3300029799_000242",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

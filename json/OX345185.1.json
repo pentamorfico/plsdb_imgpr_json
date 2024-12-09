@@ -1,0 +1,221 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 00:48:15",
+    "id": "OX345185.1",
+    "name": "OX345185.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "OX345185.1",
+          "name": "OX345185.1",
+          "orientation": "+",
+          "length": 4202,
+          "seq": "AGAAAGTTAAAGAAGGGTAATGGCAAAAGTTTAGATGCACTACTTTGCGGGCCTAGGGTGACGGAAAAATCTGGGGTTCCGGAGTATAACCCCTTATAGAGCTAGGCCGCTCATACCACTTCTGGAATAGATTCTTAGTATCTATGAGTTGAGTACCCTCATGTTTATTATTCTTTTTATCCTGTTTGTGTCAGCAGTTGCATCATCACTTAATCTCAGCTTACTAAGCTGGCTTGCAAAGTCTTGGGATCCACAATTTACAATGCTTTCGATTTTGAGTTTAGTATTTGGAGGGAAAAGCATCTCTGCCTCTCCCTTAAAATGTGCAACATCTCCGAGTATTCTACCTTTATGTCCTTTTTCTAGGTATATGTTGAGAATAGTGTCATTTATCCATGCCTTATCTGGCGATGTACTCATAAAAGCTTTATCTATTATTATATTACCTATAGTAGTGTATTCCTTCAGCACATCCGATAATGCGGGCTTATCAAGCTTCAGGCCCCGGTATACGACTCTGTGATCTGTTTCGGGAAGTGAACTTAATCCCTCCGCAATATCATTTATATAAACTGACATGGCATTTTTAAACTCCTCATCACTGGGTTCATTTGTGGAAAGATAGTCTCTGGAGAGCAGAGTTTCTTTTGCCTGTGTTTCAGGATAATCATCCCCACGTAAATATTTATTAATCACACTGTACCCTTGAGCTGAATAGTACCTCAGAGCTTGAATCTGCTTTGATTCCTCTACAATCGCCCATTTTGATTTTGGTCGAGATGAATTACCTCCCATCATCGGAGGAGGCGGTGGCGGTGGCATCATATTGTTGACAGGAGCTCTTCTATAACCGTCGCCTTCATAGGCCAGCGTCCGAGCAGCGCAAAGCTGTGTCAGTATCGGATTTTCGTCATACTCCAGCAGCAGACGGGAAACCAGCGTATCGGCTTCACCCAGTTCATCAGGAAAGTGGTGGAACATCAGGACTTGGCGGCACAGGCGATGGAGGCGGATCTCAAAGCCGTAGTTATACAGGGAGAAGGGATCCTGGCGGGCGAGCCAGCTGTTCTGAGCAGTGAATGCAGGCGGTACCTGTGGATCTACACCACGTTCGCCGTAGTCAAACACTAGGGTGAACAGCCACTGTACCGCGGGTGTGGCGCTAGTCCAGAGGTACAGATCGGCGGCGGGGGTCGCGTTGCCATACTGTACCTTGCTGAGATAGCGCATGGCGCTGCGATCGCGTCCGGCCTCGTTCCCATTGAGGTCCACATTGTCACCGTTCTCCGCCAGGTAGGAGTAATAGATATGCTCGCCGGCAGGGGTCACCGACTCCTCAACCAGCCATTGCGCCGTATGAGAGGCGGCCTGCGGATCGCTGAGGCGTGCTGCGGCGGTTTTCCCCAGCAGGTGCAGGATGCCGTTACTGTCATGCAGTAACCAGAAATCATCGCCGTTGCTGTTGCCCACCCAGTACTCCAGGCGATAAAAACTGCTCTCCGTGCGGGGCTGATAGCGGGTCACCGTGTAGCTTTGCGGGAACGATACGTCACCGTACGCGAAGCAGGTGACGGGATTGGGGGCATCACCGGTGCTGAGCGTTTGAACCAGCACTTCTCCGTCCGGCCCCAGAAACTCATCGCTGTCGTTATACTGCGGCACGCCATGGCTGGTGCGGCGGGCAATGCTCATTGTCGCGCAGGACCAGCCCACGCCGAAGGGGCCATTGCCGCCACCGCTGCTGTAGTGCAGCGCCAGCGCAGGCGCAAAGCCGCGTTCGGCGCTGATGGGCAGAGGCAGCGTTATACTGGCTAGGCCGTCAGGGCCTGACTGACTCAGCGCCTTGCCCCCTTTTGGCAGGAAAGGGGGAGTGATCAGCGCTAAAGTGGCAGATGAAAAACCATTTAGTATCAACATACACTATCTCCTGAAACTGGCCGTCTGACGATGGCCAGGTATATTTTCTGCTTACAGCGTCTGCTCTACGGCCTGTTCAAAAGTGCTGCCGCCGTACAGCGCGGTAGAATGCACCTGAACAATGACGTCGCTCAGATTCTGCAGAATGGTCTGCTGCTCACTACTCTGGTAGCGCGGGAAGCTAAACTGCCGGCTGGCACGCAGAGTACCCGCAATCAACTGTTCCACCTGGGGGAACGGTAATCGCTAACTGTCGGGCAAAGGTATTCAGTGCTTCAAATGGCGTATAGTCGGCGGTTTTCAGCCCCAGATTGGTCTGGTAAAAAGAGGTCAGGTCAGTGGCGGTACTGTTGTCCGGCTCGGTCGGCAGTGTCTGCTGCTCTGGTGACAGCCGGCTGGCGAGCTCCATGGCATAGTTACTGTTATCGCCGGTCAGCGAGTTGCTCAGGAACCACGGCCAGTCAATGCTGCTCTCGCTGATAATATCTTCCAGCGACACATCGGTATTCAGCAGAGATAACTCCACCTGGTCGTGTGGAAAATGATACGGCAGCAGGGTCGGTATTTGCTGGTTAATGGCATCATTAACCACCATCAGGGTGGCCAGGTCCGGCCGACGCTCTGCCTGTCCCTGAATACCGCCGACAGCGGAACTGCTCAGGTTCGTGCCATTGTCCAGTGTCTGCTGCAAGGTCCCCCGAACTCTGCGGGTCAATTGATTTTCTCGGAACATGCAGCGGATATACTGCGCCTGGCCCATCGCCAGGTCCCAGGCTTTACCTCCGCGGGAGCCCGGCCATGACATATTGGCGTTAATAAACTGTTTACGGGTCTGACGGACAATATCAAACACGGAATAATAATTATATTTTGCAAAATTCCCTGCCGGGACCCGGATGGCGGTTTCGACCTGTGAAAGTGCCGGACTGGTGGTCTGATTCATATTCATAAATAATGATGACTCCTGAAAATAAACAGAATGAAATCCTGAAGACTGATAATGTCTGCAGGGGAATTATTTTGTATTGCCAGAAAATGAGTGGCTTATATTGAGTTTATTTATGTGCTATTTTTCTGCTGTGCGGAATCGCGGTTCCCGGTGTGCAAAGATGGCACAACAAATTAACTCAGGAATAAACAACGTTCAGCGCTCCGGCGTCGGGTCAGGCCGGGAACAACCTGACCGCTGGCGTGGTCCCATTTCAGGAATTCATTCGCTGCGCCGTCATAGTCACCGTTATTCAGTTTCTTCAGTAAAGTGGCGTGAGCCAGCGCGTTAATGCCCATGTTTTAGGTAATCCACCAGAGCATCAAACTGATTCTGTGTCAGATTGACGGCGACCAGCCGGTTTACTCCATGCTCCGCGGTGAACTACCGCTATGGAGGATGGGGATTGCTGACAATCTGAATCTGGCAAATGCCGTGAATACAGGTGTTGCGGCCCTTACGCTGCATAAGGTCAGAAGGTGGACTGTTTCAGTTCCTGCTGTATCAGTTTTATAGCTTTACGATAATCTGGTGTCTCCCGTTTCTTGGTCGGGTAATACAAGGAGGTACAGAGCGCTACGCCTTTGATGTGCAGTGCGTGATCTGTTGATAATCCCAGAGCCCGACAGACTCTGACGGGGATGAGTAACATCGCCAGCCCTTGTTGTAACCGGTACAGTGAACTGAACAAATCGACGTTATCAAAACTGAATGCAGGGTTGGTAATACCTAGTGTCTGTTTAAAAAAATGGTATATGGTGTCCAGATTAAAATTTTTAGCCCCCTCATGAAAAAGTACAGGTGTTCCGGCCAGCCTGTTGATATCAGGTTTGCCGCAGAGAAAGAATTTTTTAGGAATAAATAACATGACCCCACCCTCCACTGATGTCCGGCAGACAAGCGATTCCCGATGAAAATAATTTCTGGCAGAAATAACAATGCAGTTGTTTGTCTGACACAGTTCTTCTATTATTTGGCTGTTAACGGCTCTCCCCATTATATTTGTTTTTTGGCCGGAAATGGTCAGTGCTGAAATGATCAGATTTTTTAAACTTTCCGGATAAATTTCGTCAAATATTATTTCTAGTTGTTTCGTTTTACCCGTAGGTCCGATTTCCTGCTCCAGTGCATGTAAGAAAATATAATGGGATTTTACTTTTCGATAAATAGTTTGTGCAAATTCGGTTGGGATAAGAGTGCCATTCTTCCGTATAAAGAGTCTTTGTTTCAGCTCTCTTTCCAGGTCTGAAATAACCCTGCTCAGCGGGGTTCGGGTGATATACAGTACTGATGTTGC"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "OX345185.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "SpvB,TcdB_toxin_midC,TcdB_toxin_midN,VCBS Insecticidal toxin complex",
+        "start": 142,
+        "stop": 1917,
+        "strand": -1,
+        "contig": "OX345185.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 1948,
+        "stop": 2160,
+        "strand": 1,
+        "contig": "OX345185.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "VRP1 Salmonella virulence plasmid 28.1kDa A protein",
+        "start": 2099,
+        "stop": 2866,
+        "strand": -1,
+        "contig": "OX345185.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Phage_lysozyme lysozyme",
+        "start": 3040,
+        "stop": 3204,
+        "strand": -1,
+        "contig": "OX345185.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "HTH_1 Bacterial regulatory helix-turn-helix protein, lysR family",
+        "start": 3378,
+        "stop": 4202,
+        "strand": -1,
+        "contig": "OX345185.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

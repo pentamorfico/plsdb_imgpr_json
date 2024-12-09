@@ -1,0 +1,315 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 01:50:37",
+    "id": "NZ_CP027151.1",
+    "name": "NZ_CP027151.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP027151.1",
+          "name": "NZ_CP027151.1",
+          "orientation": "+",
+          "length": 6451,
+          "seq": "CTCAAAAGGGTATAAGGTCGCCATAATATTCTCTCCACGTTATTTACAGAGCGTTTTAATCAATATCCGCTTTTAAACTTCATGATTATTATACGTCTAATGAGCCATTACAGGCAAGAAAAAAATGCCCCTTTTCGAGGCATATTTTTAACCGGTTTACCACTCCCAAACGGTCAGTTCTGGCACCTGTTCTGCATCCCGGTCAAACCAAATCCAGTCGAACCCGGCACCATTTAACGCGGCTATATTATCCAAAGCACTTGCACTGATCCCCGCCCTGGTTAATTCCACTCGCCATTGTTCAGTAGCAGAAATACGCAATATCCACCCATAGCGATTTTTCTCGATCCAGAACAAACCTTGACCGGACAAGTCATCGTTACAGACCTTGTCCAGTAGTTCCGCGTCTTCTTTTTTTACATGGCCGGTACTGACGACCGCCACCCGATATTGTTCACTGATATTCATACTCCCCCCCTCTGGATTGGCGGCCCGCGTCCTGCGGGCCGTTCTAACTCAAATACTCACTGCGGGTAATCATTCATATCCGGGAACGGCGGTTCATCATGATTTTCAATGCCTCCCTGGCCTTCTGCACTGGTGTTACGTGGCCCAGCTCCCGGCAGCATCTGCATTTCGCCGTTATTATCGATCACAATTTCCTTATTGCTGCGCATTTTGCCGTCTGTCCCTTGCCATTTGTTATTACGAATGCGCCCGACAAAATACAGCATCATACCCTTTTTGAAGTACTTCCCAGCTGCTTCGGCTTTCTTTCCAAAAATGACAATATCATGCCATTCCGTTTCTTTTTGCTCCTTCCCTTCGTTGTCGCTATAGCTGATTTCTGTAGCCAGCGTCAGGCTCGCAATGGCCGTTCCGTTTGGGGTGTAACGCAGTTCTGCATCTTTGCCAGAACGCCCCATCAGAATCACTTTGTTTTCGCCACGTTTCCACATAATACACCTCATATATTTGATGTTTATCAGTAAAAAATGGGAGGATTAAGGGGGATTTCTCCCCCTCTTTATCAGTAAAACTTCATGTTCGATTTCAGAGCTTTTTCAAAGTCTTTTACAAAGGAATTTGCAAAAGTGTAATCACGATGAATAAGCTGTTTTGTTTTAGGATTTCGCCACTCAACCTGCACTGATTCGGCTGAGTATTCGATCACCTCGATTTGATTTTTTACACCGAGATAATCAGCAATTGCCATTACGGCATTCACTTTTTTTTGGTCTGCTTCTTTCATTTCAACTCCTTCGCCAGTCGGGGCGCTACCGCGAAAGACTCAACTGCCTTTCGATGTAATAATTATACGTCTAATGAGCCATTTTATCAACTCATTAGACGTATTTTTATATTTTAATTTTGTTCAAATATGAACATTTAATGATGCCAGATATCTAACTTAATGGCTTGAATTTGGCCTTGTTGTAGGTGATCCGGTAGTCTTTGCACTTCCCGTTCTGCCGCAGGAACTCCAGCGAGACAACGTTAGCAGCGGCAAAATTGATGCACATAATGCTTTCCAGCGCCTCGAACAGGTCGGCCCCATTGGCAAGCGGAAACCACAGATCGTTGTCGTTACCGCTTAATTTTTCATGAAGACAGAAATGCACAGCACGCACGCCGCCAAATTCCGTAACCAGCACCGTATTGCTGGCGCGAATATCAGTTAGTGTTAACATTTTTCCCCCTGTCAGTATTGGCCCCCTCGCGGGGGCCGCCGTTTCAGTCAATCGCGCGGTAAATCAAACCGGCTTCGGCGTGCTGGTCGGCATATAATTTGAGCTTTTCCTGCTGGGTGATCAGCATGTCGCAGATGTGCTCATAGCCGGCATCATGTGCGTGCCAGATCATGTGGTTCAGGGTGAACAGGGTCAGCACGATACCGGTAGCTTCTGCGGACAGTTCCCCTTCGAACCAGTTACCGCTAACCGATACCGTGAAGCGCTCTGCGCTCAGTGGGTACATGAAGCCGCTACCGCAAGACAGTTCGACGAACTCCCAGGAACCGCCTTGATAATCGGCGCAGAGAGAACGTGCGTGGTTGTAGACACCGGCCTCACCTGTGAGATACCAGGCGCCGAACAGGCGTGGCAGAAAGGCCATGCGGCGGTTATTGGGGATAATGCGTGCAGTGATGGCGGGTTGATTCAGTTCAGTAGACATTTTCTGTACTCCTGCGCCAGTCGGGGCGCTACCGTCGAAAGACCGGATTGCCTTTCGATGTGATTATTATACGTCTAATGAGCCATATTAATCAAGCAAAATATTCCCGCCTGCCTGAATATTTTCAGGCGGGAGAACTCTTTCCCCTGTCCATTTTTGGGGGCAGGATCACGCCTGCCCCCTTCTGATTCACATGATTACTATGACTTTGTTTCAGCGTTAAAGTGTACGGCTGCGATCCTGACCAACGGGATCACCGCGCTTTCCTCATCGAGCACACGAAAATTTATCGCTTCCCCCAGGTGCATCAGGTTAGCGATAAAATCAACGATGATTTCGGAAACCGGGTGTCCGTCGCAGTCCTGCTCATTCAGGCGCGCAAACAGCGCCAGCGCCTTAGCGGCCTTGATTGCCCGCTCTTCGTTTTCTTCGTCCATACTGCCGAAACACCATTGCCCCTTTTCAATCAGGGCCAGCGTGTCGTAATAGGCTTCATTCTGGGACATGTTTTTTCCTCCTGCGCCAGTCGGGGCGCTACCGTGAAAGTTCGCTGCGTTACTGCGTGAATTAGCCGTTAATCGCCTTCGTGATGCACTCCAGCGCCTCAGACTCCTGCGGATAAAGTCGGCGTGCAGCTCCTTCACCAGACTGGATTTCTTCCAGCCGGATAAACTGCGCCGCCAGCGCCACGACTTTTTGCAGCGCCTCGGCATTGACCTCTATCTTTCGATCGCGGGCGGCATCTTCGCGCACCTGCTTTGCCAGGCTCCAGACGGTATCTTTTCCGACGCCATAACGGCTGTGTGAACTGCATTCCGCGATTTCTGCCAGAACGGCTTCGGCCTCATCGTCAGTGAGGTTCATATCACTGGTGCAGTCATGGACATCTTCAGCAGTCCAGATCAGAAGGCTGATCCGCTGCTGTGGTTCAAAACTATCGAGAAGCCTTGCGCAAATTTCATTTACGTTACCGTGCATTGTAAAACTCCTGCGCCAGTCGGGGCGCTGCCGCGAAAGACCGGATGCCTTTCGATGTGATTATTATACGTCTAATGAGCCATATTAATCAAGCGATTTTTCACGCTCATAGCTGCTACAGGCAACGCTGTAGCCGTTTGCATCCAGTTCTGAAGGCCAGTCGTCACGCCCGCAACCTGACAGCAGGCAGGCGCTGAGGTGCCCAGGGCGATAGTCGAGATGCTGGCATGAGGCGCAAAGGTCATCATCTGAGATTGAGCGGCCTGCACAGATAGGCGGCGCTCCATCAGTGGGAATTTCTCGAATATGCAGCGTTGTCACTTTTTTTACTCCTGCGCCAGTCGGGGCGCTGCCGGTTAGGGATGCAGGGGGCTGTCGCCCCCTGCGGCGGTTCAGTCCTTACCCTTATCCTTCATGACTTTAATCAGCCCGGTAATGGCTGTAATGAGGGCGGCCACGGCCGTGATAATCTGAGGGAGGTTATGGAGGATTTCAGAAGAGGTCATAATGCACCTGTAAGGCTGTTTAGGAAGGTACTGATTTGAATCAGTAAAAACATTATACGTCTAATGAGCCATATATGCAAGCAATAAAACGCCCCTTGTAGGGGCGCTGTGATTATTTTACATACTGCCAGACATGCGGCGGGATCTTATCCCAGATGCGTCCCGATGCCAGCTCTGCGCGGCGATGGTCGGCGGCAGCCTCAAAAGCCTCGGTGTCCTCCGGCGGCACCTGTCCACGATCCCGCATGGATTCGTACATTTTTTCCAGTGTGTCCGGGTTACGACTGCGCCGAAAACGGAGAAGGTAAAAACGCCTCCGCGCCTGATAAACTGTTTCCGCCATGTATCTGCGTCCTGAGCGCCTTGTTATTTCGCATAGTATTCACGTTTTGGTTGAATAAGTCTTCGACTATACGCCCCTTGCGGGGCGTAGCAGGCGGTCAGCCCCAGGTGCTGTAAAAATGGCTTTCGTTAGGATCGGTCTTATAAGCCTGTTCGTACTCGTCAATGCTGACAGACGGATGCTCATGGTTTTCACAGATACGACGGGTCACGGGTTCGCCTTTAAAGTCATTCAATACCGGCTTTAATTCGCCAGACATTGCACTGTCTGCTTTCACCTGCTGCGCAGCGATGCGGCGCAGTACGGCGGTTTTCTTACCGCGCAGGGCGATCACCTGATAAAAATAGGTATTTGTCTGCTCATAACCCCAGCTGGAAACAAAAACATCACCAAGAGAAACGGAGCCGTTACGGAACTGAAGGGATTGAATAGCCATGTTTATTACTCCTGCGCCAGTCGGGGCGCTACCGCGAAAAGCCTCATTGCCTTTCGATGTGATTATTATACGTCTAATGAGCCATATAAATCAAGCAATAAATACATGCCCGGCATGATTTTCTCAGGCCGGGGAATACTTCCTTTCCCTGTTTATATTTCAGGCCGCAAATGCGGCCTGCCATCTGCATTACACGCGAGGGGGTAACATTCCGGGATAGTGACTGGCAACCAGATTATTGATCTTCTCAACCAGCTCCGGGCGTTTAAACGTAATGTGGGCGCTGCCCTTTTTGTAATATCGCACGCTGAAGTAATCACACTCGAACACCTTACCGTTGAACTGGTTTTCACTGAAAAAGGCATCCAGTTTGGCACCGTCAGAAACGCGGTAATCAGGCACGTTACGCCCGTCCAGCACGTAGAACGGCCGCGCCAGATCGTCAATTTTGGTGTGCCCGTCTGAGCTGAAGCGCACCCAGCCACTGCGCCAGACATCGAGCAACGGCGCGATGATGATACGCTTGCCAAACATGCAGGGATTATTGGTTTTATAATCCCACGACAGGGATTTAAAGATATCAATCAGCCCTTGCGTGAAAGTATCGGCCTTGCTTGCGTTCAGGTGCCGGAACGTACTCATAACGTTCTCCAGCGTTATCGGCGGCATTTCTTCGCCTGCCACCTGCCGATCCCATTCCTGACGTTGTTTGTTGCTCATCAGCGTATACATGCCGGTTTCCGACATCAGCCGATCCCAGATTTTTCCGGGTATACGGATTTAATGGTTGATGGGGCACCTTCACCCCATCAATCTGATACCACCCTCAGATGGTTGATAGATCGACTCCGTAGTTGAGTTCCTCTGCGAAGTCCGGCAGTCCGTAACCGATGGTTTTCTTGTAGAAAGGAGAGACCTTCGCAGTCGGTGCCTTCTTCTTGTGCTTCGTGGTGTAGAGCATTCGTGCCCGCATCACCTCGAAGGAGTAACCGCGCCCTTCACGGTTCTTGTCCTTGGCCAGTCGGTTGATGGACTCCGTGTAAGCGTTGGTGACGGGCATGTCCGTCTCGAAGTAGGTCATGGTCTCTTCGCGCCAGTTTCCCACTGCCCTGACCAGATCGCTCCAGACTTCCTTTTGGCCCTTCGGGATGGTGGCTATCCACTCGTCCAGGGCGGCTTCTGCCTGGAGCCGTGTGGTGGCGTCCCAGATGCCGTAGAAGCGCTCCTTGTGCTCGTAGGCGGCCAGCAGTTGCGGGAACGCGCCTGTCCAGGTCTCCATGATGAGGCGCTCCCGGTCTGAGACTTCGTGAGCGCGTTTCAGCAGGATTTTCCGGTCTCCCTTGAGAGTCCGGCTCTGGGACGGTTTCAGCTCCTTTCTGAGGCCCTTGCGCACTCTCTCTAGGGCATCGTTGGCCATGCGCACCACATGGAACTTATCGACCACGATACGGGCCTGGGGCAGCACAGCCTTGACCGCTGCCCGGTAGGGGTTCCACATGTCCATGCTGACGATCTCGACCTTCTGCCGGTCTTTCAGCTTCATCAGGTAGTTGGTCACCACGTCCTGGCGGCGGGTGGCCAGCAGGTCGAGCAGGGTTCGCTCCTCAATGTTGGTCAGAATGCAGCGGTAGCGCTTGTTCAGGTATAGCTCGTCAATGCCCAGGATGCGGGGCGTCTCGAAGCGGTGCCAGCGCCCCAGGAACTCGGCGCGGGCGTTGAAGATGTCGCGCACCGTCTTCTCGTCCAGGCCGGTCTGTGCCGCCACAAAGGTGTAGGGGTGGTTGAAGGATTCCTTCTCCACGTACTCATGCAGCCGCAGTGTCATACGGAATCCGTCCACCATCTCCGGTAGCTGGGGCCTGAATGTTGTCTTGCAGGCCCGGCAGGTGTATCGGCGGCGGACCACCCAGAGAGTGACCCGCTTGCCGTGGATGGGCAGATCACGATAGGGAACGTCACGCTTGCCGAACCGTACGAACTCACCCTGCACGCCGCATTCCTCGCAGGCGATGG"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP027151.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "- -",
+        "start": 157,
+        "stop": 468,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SSB Plays an important role in DNA replication, recombination and repair. Binds to ssDNA and to an array of partner proteins to recruit them to their sites of action during DNA metabolism",
+        "start": 525,
+        "stop": 959,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 1031,
+        "stop": 1252,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "- -",
+        "start": 1407,
+        "stop": 1691,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 2376,
+        "stop": 2681,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DUF1380 Protein of unknown function (DUF1380)",
+        "start": 2743,
+        "stop": 3153,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 3546,
+        "stop": 3659,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "HHA non-specific DNA-binding protein which affects the production of multiple proteins",
+        "start": 3772,
+        "stop": 4002,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "- -",
+        "start": 4100,
+        "stop": 4438,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DUF4942 Domain of unknown function (DUF4942)",
+        "start": 4628,
+        "stop": 5185,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DDE_Tnp_ISL3_s1",
+        "start": 5265,
+        "stop": 6449,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "Integrase",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "ardb_klca_acric11",
+        "start": 1735,
+        "stop": 2175,
+        "strand": -1,
+        "contig": "NZ_CP027151.1",
+        "legend": "Antidefense",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "highlight",
+        "name": "ardb_klca_acric11",
+        "start": 1735,
+        "stop": 2175,
+        "color": "rgba(255,255,0,0.3)",
+        "thickness": 0.1,
+        "legend": "Antidefense",
+        "favorite": true
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

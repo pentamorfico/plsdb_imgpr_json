@@ -1,0 +1,288 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-12-05 07:22:22",
+    "id": "NZ_CP014770.1",
+    "name": "NZ_CP014770.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP014770.1",
+          "name": "NZ_CP014770.1",
+          "orientation": "+",
+          "length": 6421,
+          "seq": "AGCAGGGGCAGGCGCGCGGCCCAGCCATCGAACTCTACCAGGTGGGCGTGCGGCTCGGGACCGGGCGGGTGAGCAGCCAGTGGTTTTGCCGCTTCACGTTTGCCAGCGACTCGGCGCGCCGGCCGCCGCCGGTGCTGCTGGAGGTCACGTTTCGCGACACGACGGCGCGGGCGGTGCTAGGCTTCGGGCTGCGGCGTCAGCGTTAGCCGGGCAGGGAGATTTTGCCCAGGCTCAGGCCGTTGCCCGCCAGCGCTTCATTGGCTAGCACCGCGAAAAGCACGGCTTCTTTGGCATCGGGCGGCACGCCGGCCTCGGCGGTGCTGCGCAGGCGGGTGGCCGGCAGGTGGCGGGCCAGGGCGGCCAGCAGCGTGGCGTTGTGGGCGCCGCCACCGCTCACCAGCGCGTCGGCGGCGGGCGCAGGGCCCAGGTAGTGCCGCACGCCCTGCGCCACGGCCCCGGCGCTCAGCTCGATAAGCGTGGCCAGCAGGTCGGATACCGATAAATTTTTTGTGCCCGTACAGCGCTGGTTTTCAGCCAGATAATTCGGTGAAAAAAGCTCCGGCCCAGTGGTTTTGGGGAAGGGCTCGCTGAAAAACGAATGGCTGCGCAAGGCCGCCAGCAGCCCGGCGTGCGGCTGGCCCCGCGCGGCCAGGCGGCCGCCTTCGTCGTAGGCTTGGCCGGGGTAGCGCTGGCGCACCACGGCGTCGAGCAGCGTGTTGCCGGGGCCGGTGTCGGTGGCCTGGGCGGGGCCGCCGTCGGCGGGCAAGAGCGTGAAGTTGGCGATGCCGCCCAAGTGAGCAGCAGGCGATTAACTCCTGGCTGGCGGAATAATAATTTGTCGGCAAACGGGGCCAGCGGCGCGCCCTCGAAGCCGGCGGCCACGTGCTTTTGCCGAAAATCGGAGAGCGTGATAATGCCCGTGCCCACGGCCAGGTGGTCGCCGTCGCCGATTTGCAGCGTGGCGTGGTGCGGAAAGTCGGCCCGGCCGTGCTGGTGGCGCGGCGCGTGCCAGATGGTCTGCCCGTGGCTGGCCAACACATCGACCTCGGCCGGCCCTACCCCCACCCGGCCAGGCAAGCCAGCACCGTGGCCGCGTGGCGGCGCGCCACCTCCGCATTGAGCAGCACCACCTCTTCCAGGTCAACCCGCGGCTGACTAACGGCCCGCAGCCGCGCCTGAAACGCCGCCTCATACGGCACCGTAACAAACTGTTCCATCGTTACTTGCAGCGCAGCGTCGTGGCCGGTGCAGCGGCACAGCGCCACGTCGAGGCCATCGAGCGAGGTGCCCGACATGAGGCCGATGATGCGGCGACTGGGCTGCTGTGCCACGGCCAGCAGGCGGCTTAGGTGCGGGTTCATGGAGTTAATTGGGAAGGAGAAATTATACTCGTTGAGCAAGTTGATTAAAAAAGAACGTCATTCCTCGACAAGCTCGGAATGACGTTCTTTTTTCGCAGCATACTCCGAAAACAATATGATTCCTCATTCTTCCTTCTTCGCCCCCAATTTTGGGTTGTCGCGGTGGCGGGTGGCGTCGCGCTGGGTTTTCTTGGCCAGGTTGCGGGCCAGCGCGTCAGTGAGGTTCACGCCGGTTTGGTTGGCCAGGCAAATGACCACGAACAACACATCGGCCAACTCGTCGCCCAACTCCCTACCCGGTCCGAGTCCTTGAACGACTGCTCACCGTATTGCCGGGCGATGAGGCGCGCCACCTCGCCCACCTCTTCGGTGAGAATGGCCAGGTTGGTTAGCTCGCTGAAATAGCGCACGCCGGTGGTGGTTATCCACTCATCGACAGTGGCTTGGGCTTGTTCAATTGTCATAAAAATCAGCTGCTTACCAAGCCCGCCTGTTCAATGGCAACCAGCTTACTGATTGGCACTAAACGACTATGGACTGTAAGTCCATAGGTTTGAAAGCGAATGGAATTCGGCGGTTTCGGCTAAAGCCGGCTGAAAGAAGCCACTGAAAGTGGGCCGCTCTAGAATGAAATTCTGCTGGCGAAACGCTAGCGTCAGTCGTTGGGCAAAGAGCAATAACTAACTGACAATCAAAAATTGACCGTTCTTGCATAAGCAAGGCCGGCGAAAGGGAGTAGCAACTAAAGTCTTGCCCTAAAGGGCATAGCTTTAACTAGCGTGCTTGAAAAGTAAACTTAGGGCCTGCTCCCAGTGCGGCGCTAAAAAATGGTGAAGCTGCCGCAAGCTACAACTGCCGCTTCGCAGCCAAAGAACCCGCGGTGGGGGCTCCTGCTGGCGTATGAGCTGCGCGAAATCCTTATCCTTCGTGATGATAGTTAGGTTGTGGTCAGCCGCATATTTCCGGATTGATACATTTGGCCAGCGCTCGTTCAGGTCGCGCTGATGTAAAAACTCCTCACCCCGCCAATAAGCAAATCGGTAAGGCAGATTAATATCAACTAGAAATCGCACCATGCACTACGCGGCCTGTTGCGCAAACTGCTGCTGAATAATCTGCTGCGCAAATTCCAGGCACGCTGGAATGTCAGCCGGCTCCAGCGTCGGGAAGGATTCCAGAATATCGGCCAGCGTGTCACCGGCCGCCAGGTAGCCTAACACGGTATCAACTTGCAAGCGGGTACCCCGAACGGTAGGCTTGCCAAAACACCGTTCCGGGTCCACGGTGATGCGCTCGGTGAGGTAGGTAGTCATGCTGCAAAGTACGCAGAAATCAGGCGGGTGAATCCAGCACAATCGTCACCGGGCCATCGTTGAGGAGGCGCACCTGCATGTCGGCCCCGAAGATGCCGGTGGGCACCGGCTGGCCCAGCTCCCGCGCCGTGAGGGCCACGAAGCGCTCGTAGAGCGGCGCGGCCACGGCGGGCGGCGCGGCCCCGCTGTAGCTGGGGCGGTTGCCCTTGCGCGCATCGGCCAGCAGCGTAAACTGGCTCACTACCAGCACCTGGCCGCCCACGTCGCGCACGCTACGGTTCATCTGGCCGTGGTCGTCGTTGAAGATGCGCAGGCCGACGAGCTTGCGGGCCATCCAGGCCAGGGCGGCCTCGTCGTCGGTGGGCGCGCAGCCGACCAGCACCAGCAGGCCGGGGCCAATCTGGCCGGTAATGGTGTCCTCCACGGTGACGGAGGCTTCGCGGACGCGCTGAATTACGAGACGCATTTTTCAGTGATTAAAGATTAATGTCGTCTGTCATTGCGAGCGCAACGAAGTGGAGCGCGGCAATCTTTCCTTCACATTGAATTTACTAACCAGATGTGAAGGAAAGATTGCCGCGCTCCACTTCGTTGCGCTCGCAATGACAGACGACATTAATCTTTAATCACTGAAAAATGCGTCTCGTAATTCAGCGCGTCCGCGAAGCCTCCGTCACCGTGGAGGACACCATTACCGGCCAGATTGGCCCCGGCCTGCTGGTGCTGGTCGGCTGCGCGCCCACCGACGACGAGGCCGCCCTGGCCTGGATGGCCCGCAAGCTCGTCGGCCTGCGCATCTTCAACGACGACCACGGCCAGATGAACCGTAGCGTGCGCGACGTGGGCGGCCAGGTGCTGGTAGTGAGCCAGTTTACGCTGCTGGCCGATGCGCGCAAGGGCAACCGCCCCAGCTACAGCGGGGCCGCGCCGCCCGCCGTGGCCGCGCCGCTCTACGAGCGCTTCGTGGCCCTCACGGCGCGGGAGCTGGGCCAGCCGGTGCCCACCGGCATCTTCGGGGCCGACATGCAGGTGCGCCTCCTCAACGATGGCCCGGTGACGATTGTGCTGGATTCACCCGCCTGATTTCTGCGTACTTTGCAGCATGACTACCTACCTCACCGAGCGCATCACCGTGGACCCGGAACGGTGTTTTGGCAAGCCTACCGTTCGGGGTACCCGCTTGCAAGTTGATACCGTGTTAGGCTACCTGGCGGCCGGTGACACGCTGGCCGATATTCTGGAATCCTTCCCGACGCTGGAGCCGGCTGACATTCCAGCGTGCCTGGAATTTGCGCAGCAGATTATTCAGCAGCAGTTTGCGCAACAGGCCGCGTAGTGCATGGTGCGATTTCTAGTTGATATTAATCTGCCTTACCGATTTGCTTATTGGCGGGGTGAGGAGTTTTTACATCAGCGCGACCTGAACGAGCGCTGGCCAAATGTATCAATCCGGAAATATGCGGCTGACCACAACCTAACTATCATCACGAAGGATAAGGATTTCGCGCAGCTCATACGCCAGCAGGAGCCCCCACCGCGGGTTCTTTGGCTGCGAAGCGGCAGTTGTAGCTTGCGGCAGCTTCACCATTTTTTAGCGCCGCACTGGGAGCAGGCCCTAAGTTTACTTTTCAAGCACGCTAGTTAAAGCTATGCCCTTTAGGGCAAGACTTTAGTTGCTACTCCCTTTCGCCGGCCTTGCTTATGCAAGAACGGTCAATTTTTGATTGTCAGTTAGTTATTGCTCTTTGCCCAACGACTGACGCTAGCGTTTCGCCAGCAGAATTTCATTCTAGAGCGGCCCACTTTCAGTGGCTTCTTTCAGCCGGCTTTAGCCGAAACCGCCGAATTCCATTCGCTTTCAAACCTATGGACTTACAGTCCATAGTCGTTTAGTGCCAATCAGTAAGCTGGTTGCCATTGAACAGGCGGGCTTGGTAAGCAGCTGATTTTTATGACAATTGAACAAGCCCAAGCCACTGTCGATGAGTGGATAACCACCACCGGCGTGCGCTATTTCAGCGAGCTAACCAACCTGGCCATTCTCACCGAAGAGGTGGGCGAGGTGGCGCGCCTCATCGCCCGGCAATACGGTGAGCAGTCGTTCAAGGACTCGGACCGGGGTAGGGAGTTGGGCGACGAGTTGGCCGATGTGTTGTTCGTGGTCATTTGCCTGGCCAACCAAACCGGCGTGAACCTCACTGACGCGCTGGCCCGCAACCTGGCCAAGAAAACCCAGCGCGACGCCACCCGCCACCGCGACAACCCAAAATTGGGGGCGAAGAAGGAAGAATGAGGAATCATATTGTTTTCGGAGTATGCTGCGAAAAAAGAACGTCATTCCGAGCTTGTCGAGGAATGACGTTCTTTTTTAATCAACTTGCTCAACGAGTATAATTTCTCCTTCCCAATTAACTCCATGAACCCGCACCTAAGCCGCCTGCTGGCCGTGGCACAGCAGCCCAGTCGCCGCATCATCGGCCTCATGTCGGGCACCTCGCTCGATGGCCTCGACGTGGCGCTGTGCCGCTGCACCGGCCACGACGCTGCGCTGCAAGTAACGATGGAACAGTTTGTTACGGTGCCGTATGAGGCGGCGTTTCAGGCGCGGCTGCGGGCCGTTAGTCAGCCGCGGGTTGACCTGGAAGAGGTGGTGCTGCTCAATGCGGAGGTGGCGCGCCGCCACGCGGCCACGGTGCTGGCTTGCCTGGCCGGGTGGGGGGTAGGGCCGGCCGAGGTCGATGTGTTGGCCAGCCACGGGCAGACCATCTGGCACGCGCCGCGCCACCAGCACGGCCGGGCCGACTTTCCGCACCACGCCACGCTGCAAATCGGCGACGGCGACCACCTGGCCGTGGGCACGGGCATTATCACGCTCTCCGATTTTCGGCAAAAGCACGTGGCCGCCGGCTTCGAGGGCGCGCCGCTGGCCCCGTTTGCCGACAAATTATTATTCCGCCAGCCAGGAGTTAATCGCCTGCTGCTCAACTTGGGCGGCATCGCCAACTTCACGCTCTTGCCCGCCGACGGCGGCCCCGCCCAGGCCACCGACACCGGCCCCGGCAACACGCTGCTCGACGCCGTGGTGCGCCAGCGCTACCCCGGCCAAGCCTACGACGAAGGCGGCCGCCTGGCCGCGCGGGGCCAGCCGCACGCCGGGCTGCTGGCGGCCTTGCGCAGCCATTCGTTTTTCAGCGAGCCCTTCCCCAAAACCACTGGGCCGGAGCTTTTTTCACCGAATTATCTGGCTGAAAACCAGCGCTGTACGGGCACAAAAAATTTATCGGTATCCGACCTGCTGGCCACGCTTATCGAGCTGAGCGCCGGGGCCGTGGCGCAGGGCGTGCGGCACTACCTGGGCCCTGCGCCCGCCGCCGACGCGCTGGTGAGCGGTGGCGGCGCCCACAACGCCACGCTGCTGGCCGCCCTGGCCCGCCACCTGCCGGCCACCCGCCTGCGCAGCACCGCCGAGGCCGGCGTGCCGCCCGATGCCAAAGAAGCCGTGCTTTTCGCGGTGCTAGCCAATGAAGCGCTGGCGGGCAACGGCCTGAGCCTGGGCAAAATCTCCCTGCCCGGCTAACGCTGACGCCGCAGCCCGAAGCCTAGCACCGCCCGCGCCGTCGTGTCGCGAAACGTGACCTCCAGCAGCACCGGCGGCGGCCGGCGCGCCGAGTCGCTGGCAAACGTGAAGCGGCAAAACCACTGGCTGCTCACCCGCCCGGTCCCGAGCCGCACGCCCACCTGGTAGAG"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP014770.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 10",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 10",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 3,
+        "stop": 206,
+        "strand": 1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "AnmK Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling",
+        "start": 203,
+        "stop": 793,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "AnmK Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling",
+        "start": 1056,
+        "stop": 1400,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MazG PFAM MazG nucleotide pyrophosphohydrolase",
+        "start": 1586,
+        "stop": 1825,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "CDP-OH_P_transf CDP-alcohol phosphatidyltransferase",
+        "start": 2441,
+        "stop": 2674,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Tyr_Deacylase rejects L-amino acids rather than detecting D-amino acids in the active site. By recycling D-aminoacyl-tRNA to D-amino acids and free tRNA molecules, this enzyme counteracts the toxicity associated with the formation of D-aminoacyl-tRNA entities in vivo and helps enforce protein L-homochirality",
+        "start": 2694,
+        "stop": 3140,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Tyr_Deacylase rejects L-amino acids rather than detecting D-amino acids in the active site. By recycling D-aminoacyl-tRNA to D-amino acids and free tRNA molecules, this enzyme counteracts the toxicity associated with the formation of D-aminoacyl-tRNA entities in vivo and helps enforce protein L-homochirality",
+        "start": 3311,
+        "stop": 3757,
+        "strand": 1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "CDP-OH_P_transf CDP-alcohol phosphatidyltransferase",
+        "start": 3777,
+        "stop": 4010,
+        "strand": 1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MazG PFAM MazG nucleotide pyrophosphohydrolase",
+        "start": 4626,
+        "stop": 4967,
+        "strand": 1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "AnmK Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling",
+        "start": 5052,
+        "stop": 6251,
+        "strand": 1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 6248,
+        "stop": 6421,
+        "strand": -1,
+        "contig": "NZ_CP014770.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

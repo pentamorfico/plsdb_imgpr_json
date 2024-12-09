@@ -1,0 +1,209 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 02:51:44",
+    "id": "NZ_LR134423.1",
+    "name": "NZ_LR134423.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_LR134423.1",
+          "name": "NZ_LR134423.1",
+          "orientation": "+",
+          "length": 2926,
+          "seq": "CAGGTATTATCAAATGCCTATGCACCGTACTCTCGCTTTCATGTAAGTGCTTGTATACGTAGTGAACAAGATAAATTATTTACCGGGGTCAATGTCGAAAATGGTTCCTATGGCTTAACCCTTTGTGCAGAAGGCTCAGCGATTGCACAGATGGTAACCGCGGGGTATCGACAAATTAAGGAAATGGTTATTCTTTGCAGCACAAACCAATTATGTCCTCCCTGTGGTGCATGCAGGCAACGCATACAGGAATTTGCTTCTCCAGAGACCCTTATTCATTTATGTAACAATGAAACAATTTTAAAATCCATTTCTATGAAGGATTTATTACCGCTTGCTTTTAATTTTGATGGAACTGTTTTATGAGTAGTAAAAAACCAACCAATGCGCATTTAGCCGCTGATTTAATAAAAAGCCGCTTTCCTCAATTTCAACCTAAAATTGGTATTGTTTTAGGCTCCGGTCTAGGCGGGCTTGCCGAGCAATTAGAAAATACAGCGACAATTAGCTATAAAGAATTACCTGGCTTCCCAATAATTAATGTACATGGTCATTATGGCAACTTGGTATTAGGCAATCTTTGTGGGATAGATGTGGTTTGCTTACAAGGCCGCGCACACACTTATGAAGGCATGCATAACCTTGAAGCAGTGAAAACATATGTACGCACCTTAAAATTATTAGGTTGTGAATATTTTTTAGCGACAAATGCCTCGGGATCTTTACGTGAAGATGTAGGTCCTGGCGAGCTGATGCTTATCACTGACCATATCAATATGCTGCCTAGCAATCCTCTAGTAGGTACAAATGATGACGAATTTGGCCCCCGATTCTTGCCATTGGATAATGCTTATGACTTGGAAGCTCGGGAGAAATTATTATTCTTGGCACATAAAGAAAACATCTCTTTGCACCAAGGTGTTTATATTTCAGTATTGGGTCCCAATTACGAAACCGCAGCCGAAATCAGAGCATTTCGTATCTTAGGCGCCGATGCCGTAGGCATGTCTACGGTACCTGAGGTACTAGTAGCGAATCACTGTGGCATGAAAGTAGCAGTTATTGCGACTATTACAAATTATGCAACAGGTTTGTCTACTATTAGCCATAATCATGATGCCGTGGTATTAATGGCCTCACAAGCAGCAGAAAAATTATTAACCCTGGTTAAACGTTTCGTGGCTGAACTCTAATGGAGCTTTGTGAGGAATTGCTTTCCCTGAAAGATCGTATTGCACAAGAAAAGATTAAAATTTCAAAAAGTGAAATAATATCTCTCATTGATTTGACCTTGTTAGATGAGCAAGCCCTAGAAAGTGACATTTTAGCCTTAGGTGAAAAAGCAGTTACTCATCAAGTGGCAGCTATTTGTGTTTATCCAAAACACTTAACTTTGCTTAAGAATTTCCCTATCAAAAAAGCAACAGTCATTAATTTTCCCAGTGGGGAAGAACCACAAGAAGACGTTACTTATCGTCTTAAAACTTTGCTTGAAGAACAAACTGTCGATGAAATTGATTATGTCTTTCCTTACCGCAGTTATTTATCTGGAGAAAAAAAGCTAGCACTCTCCTATTGCAAGAAAAATCTGGAGTTAGCAAAAGAATACAATAAAGTTTTCAAAGTTATTCTGGAAACTGGAGAGATTGAGGAGCTTCATGAAATATTTGAGATGAGTAGTGCTATTGCAAAATTAGGTTGCCATTTTCTAAAAACCTCTACTGGAAAAACCAAAGAAGGAGCCAGCATGCCTGCCGTATTTGCTATGCTTTCTGCCCTAAAAAAAATAAATTCCAGCTGTGGGGTAAAAGTGTCGGGAGGGGTAAAAACAATAACCCAAGCTCAAGAGTACATAGCACTAGCAAAAATAGTGATGAATAAAGAGATACATTCCAATTGGTTTCGAATCGGGGCGAGCGGATTATTAGACCAATGCACAATGTAGGTTGGCGCCGAAGGCCCAACATTCATTATTTATTTTGAGAGCGTTTGTTGGTCCTTTCGGCGCCAACCTACATTAACCCTAACCACATAATCAACCCGTACCAATTATTGTTCATAAAGGCTTTAAAGCAGGATGCGGGCTTTCTATCTTTTATTAATCCATACTGGTAATACAATAAAAACCCACCGAATACCCAACATATATAGAACTTTAAACTCACCGGAATGAGTAACGCCAAAAGAAGCCATAGTGCATGAGAAAAACACTGTAGGAGAGTAATTATTAATACATCCAAATGAGCAAATAAAATAGCCGTGGATTTCACCCCAATCCGTACATCATCTTCTCTATCCACCATGGCATATTGCGTATCATATGCAATAATCCATGCCGAATTGATAAGTACTAAAAGCGCCATAATAGCATTCAAAGACTGATGGGAGGCGATGTATGCCATAGGTATACCCATAGAAAAAGCTAACCCTAATACAAACTGGGGGGCGGGAAAAAAGCGTTTACAGAAGGGATAAACGAAAATAATAAAAAGAGCGATTAAAGCAAAATCAAAACAAGCCGGTGGAAGTTGCACCAAAATTACTAATGCAGCACTTAATAACCCAATCAAGAGTAGAAATGCTTCGTATAAACTTACTTTTTTTGTTGCGAGAGGACGGGTAACTGTACGAGCTACTTTGTCATCAAAATTACGATCAGCGATATCATTTATCACACATCCCGCCGCTCGCATAATAACAGTGCCTAAAACGAAATAAAGAAGGGTTACAAGATTAGGCATTCCTTCATTTGCTATCCATAAAGCCCACGCAGTAGGCCACCATAGAAGAAATATGCCAATCGGTTTATTAAACCGCATTAAGTGTAAATATTCATGCCATTTATTCATGCAAGACGCCTTAATAATCCAGGCAAAAATATTTCAATCAAATAAAACTTAAATTTCTTTTTATAAATGAACAAGAT"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_LR134423.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "dCMP_cyt_deam_1 This enzyme scavenges exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis",
+        "start": 1,
+        "stop": 366,
+        "strand": 1,
+        "contig": "NZ_LR134423.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "PNP_UDP_1 The purine nucleoside phosphorylases catalyze the phosphorolytic breakdown of the N-glycosidic bond in the beta- (deoxy)ribonucleoside molecules, with the formation of the corresponding free purine bases and pentose-1-phosphate",
+        "start": 363,
+        "stop": 1193,
+        "strand": 1,
+        "contig": "NZ_LR134423.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DeoC Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy- D-ribose 5-phosphate",
+        "start": 1193,
+        "stop": 1945,
+        "strand": 1,
+        "contig": "NZ_LR134423.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "UbiA Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate",
+        "start": 2013,
+        "stop": 2849,
+        "strand": -1,
+        "contig": "NZ_LR134423.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

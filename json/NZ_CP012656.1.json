@@ -1,0 +1,401 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 03:21:35",
+    "id": "NZ_CP012656.1",
+    "name": "NZ_CP012656.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP012656.1",
+          "name": "NZ_CP012656.1",
+          "orientation": "+",
+          "length": 8437,
+          "seq": "GAGACATTCAGTTACTTGTTTCCACGACCGTGATTGAAGTGGGTGTTGACGTCAAGAATGCCACAATCATGATGATTTATGATGCTGACCGTTTTGGCTTGGCGCAACTACATCAATTACGCGGACGCGTCGGTCGTGGGACCAAGGCTTCATACTGTATTTTGGTGGCTGATCCCAAGAACCAGCAAGGGATTGAGCGGATGCAGATCATGACGCAGACAACAAATGGTTTTGTTTTGGCACAAAAAGACTTAGAATTACGAGGAGCCGGTGATGTGCTGGGGTCAAGCAATCGGAATGCCGGAATTTAAAGTGGGTGATCCGATTGCGGATTTGACCGTGCTACAAGTTGCCCAGCAAGATGCCCGCAATCGTGCAGCAACCGGATTGGCAAAGTCAACCGGATAATCGGGCACTAGCCGCCTATTTGAGCCAGAAGTTGGCTGCGGTGGGGACGCTCGATTAATAACCTAAATACAGTACTGTGATGAGAGGAATGGTGACACAATGATTAAAATTGCGATTGATGCCATGGGTGGCGATTACGCCCCTAACGCTGTGATCGAGGGGGTCGAGCAGTCGTGATTTGTTTGAGGATACGGTCTTTTTATTATATGGTCAACGTGACGTGATTAACGCGCAACTGAAGAACCGTGATCGGATTCAAATCATCAATGCTGATGAAGTTATTACGATGGAGGATGAACCCGTACGTGCCGTTCGCCGTAAGAAGCATTCATCAATCGTAATGGCGGCTCAGGCCGTGAAGGATGGTCAGGCGGACGCCTTCTTTTCTGCCGGTAATTCGGGGCCGTTCTGGCAGCCGGGTTATTTATCGTGGGCCGGATCAAGGGCATCGACCGACCGGGATTAGTGACGGTATTGCCAGTGGTACGCAATGCTAACCAATCGAACTTTGTGATGATGGATATTGGTGCTAATGCTGATAGTAAGCCACTGAACTTGCAACAATACGGTGTGTTAGGGACGTACTATGCAGAACGGATGATGCAAGCTAAGCATCCACGGGTCGCCTTACTCAACAACGGGACGGAAGACGACAAGGGAAATAAGGTCCATAAGGCAGCGTTTGAACTCTTGTCACAGACTGACGGTATCAAATTTTGTCGGTAATGTTGATCCCGGGACTTGTTGAACGGGGTTGCTGATGTCGTCGTAACGGATGGTTTTACGGGTAATGCCGTTTTGAAGAGCATTGAAGGTACGGCGCGTTCCATGCTCGGTTTAGTGAAAGATGCCGTCTATAACACCGGTATCAGTGGCAAGTTAGGCGGCCTATTGCTTAAAAATGGGTTTAATGAAATCCGGTCTCAAATGGACTATTCTCAGTACGGTGGCGCGGTCTTACTAGGATTGAAGGCGCCGGTCGTTAAGACGCACGGTTCCAGCAAAGCGCCAACAATCGTGAATACTATCCGTCAAATTTGCCAGATGGTCAGTACGGATATCGTCCCAGGAGTTGCGGAATATTTTGCTAATCAACAAGCTAATCAGCAAGCAAGTGTAGACATTCCTGCTGAAAAACGATTAGAATACTTTAGTGAATTCAAGTTAGTGAGGGATCTTTACATGACGAAAGAAGAAATTTTTCGATAAAATTGCGGATATCATTGCTGATCGGTTCGAAGTTGATAAGCAACGATTACCAACGAAATGAACTTGCAAACCGATTTGGATGCTGATTCCATCGATTTTGTTGAGTTTGTACTGGAATTAGAAGACACCTTTGGTAGCGAAATCTCAGACGAAGATGCCGAAAAATTGTCAACGGTCGGCGAAGTCGTCGATTACGTGGCAGCGCACCAAGCAAAATAAGTTAATTGACCAAGCAAAAACAGGTAGCCAACATGGTTACCTGTTTTTGCTTGTCTGACTACGAAAGTACCGATATCATTGTTATTGACCACTAAATCATAGTATAATGTTATGATATGCAATGTGTGACCTGTTGACTGACTGATTATCAGATGAATCCTTACTTAAGCGGACTTTTAACTTGTGTTTCTATATTGTTGGCTTCTGATCATCCACGGTCGATTGCCACGGCTGGGTGAAACTGAACATTGCGTGTAAGAGTAGCACTGAATACATGTCGGAAGCACTCGAACGGCAGATGAATGACCACCTTAAATAATGATTCATGCTAAGTTAGGCACCACCAGTAACAGATTGTGATAACTGGCTGATCCAATGGGGTTAGTCGATAGAATGATAACGAAAGGAAGTTTCAAATGATTACAGAATTAGCTGCAATGTTGAAGGAACGGTTTGGCATTGTGTTTAACGATCCCGATTTATTGGCGGAGGCGTTTACACAAGCCTCGTATGTCAATGAACATCAGGACCAACAGTTGAAGTATTACGAACGGGTCGAATTTTTGGGGGATGCCGTCTTGGAGTTAGTGGTGTCCGAATATTTATACAAACGTTATAAAGACATGCCCCAAGGTAAGTTGACTCGTTTACGGGCCGCCATGGTTTGTGAAGAAAGTTTTGCAAGCTTTGCCCGTGAATGTGACTTTCCTCAGTACATCCGGTTAGGCAAGGGCGAACAAAAAGCGCATGCTTGGGAACGAGATTCACTTTTATGTGATATTTTTGAATCATTTGTCGGGGCACTGTACCTGGATCAAGGACGGGAACCTGTTTTGAAGTTCGTTCATCAAGTAATTTTTCCTAAGCTGGATGAGGGTCGTTTTGATGGCGTTTTTGATTATAAGACGACCTTGCAAGAATACTTGCAACGGGATGGCGATGTCGCAATCGACTATCAATTAATTGAACAAGATGGTCCAGCCAATGAGCGGTCTTATGAGATTGCCGTACTTGCCGATGGTCAAAAAATCGGTGAGGGCTGGGGCATTCCAAGAAGGAAGCCGAACAGAGCGCTGCTCGGCAAGCTTATTCACAATTACAGCAAAAGTAACCATTAATAATTACAGGAAGTTTGTGTCGAATGCAACTTAAATCATTAGAAATCAGCGGATTTAAATCATTTGCTGATAAAACCAAAATTGATTTTCAAGCCGGAATGACGGGAATTGTCGGCCCAAACGGTAGTGGTAAGAGTAACATTATTGAAGCTATTCGCTGGGTCCTCGGAGAACAGGCCGTCAAAAGTTTACGCGGCACTAAGATGACCGACGTCATTTTTGCCGGCTCGGCTAATCGAAAACCGTTGAATATGGCTAAAGTCACGATCACGTTTGATAACAGTGACCACTTTTTACCTTTGGATTACGCAGAAGTTAGTATTACGCGGAAACTCTTTCGTAACGGTGACAGCGATTATTTAATTAATAATCAGAGTTGCCGGTTGAAAGATATTACGAATTTGATGATTGATACTGGTCTGGGAAAAGACTCATTTTCAGTGATTTCTCAAGGTCGTGTTGAGGCGGTCTTTAATGCGAAACCAGAGAAGAGCGCCGCAGCATTATCGAAGATGTCGCTGGGGTCTTAAAGTACAAAAAGGATAAGTTCACGACGGAGAATAAATTAGCGGAAACGACGGATTATTTAGACCGCGTGAACGATATCATTGCTGAATTGAATCAGCAAAAGGGGCCGTTGGAAGAACAAGCGAGTCTTGCCCGGGATTATCAAGATCAAAAACAAAAATTTGATTATTTGGACCGTTCGCGGCTCGTTAAGAAGTTGACGATTGCTCGTGATCAACTGCAAGGTGTCAATGAAAAGTTAGCTAGTGCCAAGGCGTTAGTGGCTAAGTATCAGCAACAAGTTGATGCTGGGCAACCAAGCTAGCTAATTTAAAAACCCAGCAGACAGCTCAATTAAAGCAAAAAGATGCTGGTAGCACAAAATCTTGAGCTGATTAAGACCATCGAAAACACGCAAGGACAACAAGGGGTTGACGCTGAACGGCGGCAAAACCAACAGTCTGAGCAGGAACGGCTGACGGCCAGTTTGACCGCAACTGAGCAACAGATTGCGACGCAAACCGAGCAACAAACCCAATTAGAACAACATTATCTGAGCAGCAAGCCCAAGTTAAGGCAGTCAAAGCGCAAGTTGCCGAGTTAACGACGGCAACGAGTGCGGCCGGCCGTCAGCAGTTGGCTGATAAGCTGGAAAAATTACGCAATGCTTATATTGATGAAAAACAAGTTCAGGCTGAACTGAATAACGAAGCGAAGAACCTCGTTAAGCAACATCCATCAGTCTGCAGTTTCACAGCCTGAGCTTTCTGCTAACGCTGTGCTCTGACTGCCAGACTGTTGATGTTGCTTAACGAGGTTCTTCGCTTCGTTATTCAGTTCAGCCTGAACTTGTTTTTCATCAATATAAAGCATTGCGTAATTTTTCCAGCTTATCAGCCAACTGCTGACGGCCGGCCGCACTCGTTGCCGTCGTTAACTCGGCAACTTGCGCTTTGACTGCCTTAACTTGGCTTGCTGCTCAGATAATGTTTGTTCTAATTGGGTTTGTTGCTCGGTTTGCGTCGCAATCTGTTGCTCAGTTGCGGTCAAACTGGCCGTCAGCCGTTCCTGCTCAGACTGTTGGTTTTGCCGCCGTTCAGCGTCAACCCCTTGTTGTCCTTGCGTGTTTTCGATGGTCTTAATCAGCTCAAGATTTTGTGCTACCAGCTCATCTTTTTGCTTTAATTGAGCTGTCTGCTGGGTTTTTAAATTAGCTAGCTTGGTTGCCCCAGCATCAACTTGTTGCTGATACTTAGCCACTAACGCCTTGGCACTAGCTAACTTTTCATTGACACCTTGCAGTTGATCACGAGCAATCGTCAACTTCTTAACGAGCCGCGAACGGTCCAAATAATCAAATTTTTGTTTTTGATCTTGATAATCCCGGGCAAGACTCGCTTGTTCTTCCAACGGCCCTTTTGGCTGATTCAATTCAGCAATGATATCGTTCACGCGGTCTAAATAATCCGTCGTTTCCGCTAATTTATTCTCCGTCGTGAACTTATCCTTTTTGTACTTTAAGACCCAGCGACATCTTCGGATAATGCTGCGGCGCTCTTCTGGTTTCGCATTAAAGACCGCCTCAACACGACCTTGAGAATCACTGAAATGAGTCTTTTCCCAGACCAGTATCAATCATCAAATTCGTAATATCTTTCAACCGGCAACTCTGATTATTTAATTAAAATAATCGCTGTCACCGTTACGAAAGAGTTTCCGCGTAATACTAACTTCTGCGTAATCCAAAGGTAAAAAGTGGTCACTGTTATCAAACGTGATCGTGACTTTAGCCATATTCAACGGTTTCGATTAGCCGAGCCGGCAAAAATGACGTCGGTCATCTTAGTGCCGCGTAAACTTTTGACGGCCTGTTCTCCGAGGACCCAGCGAATAGCTTCAATAATGTTACTCTTACCACTACCGTTTGGGCGACAATTCCCGTCATTCCGGCTTGAAAATCAATTTTGGTTTTATCAGCAAATGATTTAAATCCGCTGATTTCTAATGATTTAAGTTGCATTCGACACAACTTCCTGTAATTATTAATGGTTACTTTTGCTGTAATTGTGAATAAGCTTGCCGACAGCGCTCTGGTTCGGCTTCCTTCTTGGAATGCCCCCAGCCCTCACCGATTTTTTGACCATCGCAAGTACGGCAATCTCATAAGACCGCTCATTGGCTGGACCATCTTGTTCAATTAATTGATAGTCGATTGCGACATCGCCATCCGTTGCAAGTATTCTTGCAAGGTCGTCTTATAATCAAAAACGCCATCAAAACGACCCTCATCCAGCTTAGGAAAATTACTTGATGAACGAATTTCAAAACAGTTCCCGTCCTTGATCCAGGTACAGTGCCCCGACAAATGATTCAAAATATCACATAAAAGTGATCTCGTTCCCAAGCATGCGCTTTTTGTTCGCCCTTGCCTACCGGATGTACTGAGGAAAGTCACATTCACGGGCAAAGCTTGCAAAACTTTCTTCACAAAACCATGGCGGCCCCGTAAACGAGTCAACTTACCTTGGGGCATGTCTTTTAAACGTTTGTATAAATATTCGGACACCACTAACTCCAAGACGGCATCCCCAAAAATTCGACCCGTTCGTAATACTTCAACTGTTGGTCCTGATGTTCATTGACATACGAGGCTTGTGTAAAACGCCTCCGCCAATAAATCGGGATCGTTAACACAATGCCAAACCGTTCCTTCAACATTGCAGCTAATTCTGTAATCATTTGAAACTTCCTTTCGTTATCATTCTATCGACTAACCCCATTGGATCAGCCAGTTATCACAATCTGTTACTGGTGTGCCTAACTTAGCATGAAATCATTATTTAAGGTGGTCATTCATCTGCCGTTCGAGTGCTTCCACATGTATTCAGTGCTACTCTTACACGCAATGTTCAGTTTCACCCAGCCGTGGCAATCGACCGTGGATGATCAGAAAGCCAACAATATAGAAACACAAGTTAAAAGTCCGCTTAAGTAAGGATTCATCTGATAATCAGTCATCAACAGGTCACACTTGCATATCATACATTATACTATGATTTAGTGGTCAATAACAATGATATCGGTACTTTCGTAGTCAGACAAGCAAAAACAGGTACCATGTTGGCTACCTGTTTTTGCTTGGTCAATTAACTTATTTTGCTTGGTGCGCTGCCACGTAATCGACGACTTCGCCGACCGTGACAATTTTCGGCATCTTCGTCTGAGATTTCGCTACCAAAGGTGTCTTCTAATTCCAGTACAAACTCAACAAAATCGATGGAATCAGCATCCAAATCGGTTTGCAAGTTCATTTCGTTGGTAATCGTTGCTTTATCACTTTCGAACCGATCAGCAATGATATCCGCAATTTTATCGAAAATTTCTTCTTTCGTCATGTAAAGATCCCTCACTAACTTGAATTCACTAAAGTATTCTAATCGTTTTCAGCAGGAATGTCTACACTTGCTTGCTGATTAGCTTGTTGATTAGCAAAATATTCCGCAACTCCTGGGACGATATCCGTACTGACCATCTGGCAAATTTGACGGATAGTATTCACGATTGTTGGCGCTTTGCTGGAACCGTGCGTCTTAACGACCGGCGCCTTCAATCCTAGTAAGACCGCGCCACCGTACTGAGAATAGTCCATTTGAGACCGGATTTCATTAAACCCATTTTTAAGCAATAGGCCGCCTAACTTGCCACTGATACCGGTGTTATAGACGGCATCTTTCACTAAACCGAGCATGGAACGCGCCGTACCTTCAATGCTTCAAAACGGCATTACCCGTAAAACCATCCGTTACGACGACATCAGCAACCCCGTTCAACAAGTCCCGGGATTCAACATTACCGACAAAATTGATACCGTCAGTCTGTGACAAGAGTTCAAACGCTGCCTTATGGACCTTATTTCCCTTGTCGTCTTCCGTCCCGTTGTTGAGTAAGGCGACCCGTGGATGCTTAGCTTGCATCATCCGTTCTGCATAGTACGTCCCTAACACACCGTATTGTTGCAAGTTCAGTGGCTTACTATCAGCATTAGCACCAATATCCATCATCACAAAGTTCGATTGGTTAGCATTGCGTACCACTGGCAATACCGTCACTAATCCCGGTCGGTCGATGCCCTTGATCCGGCCCACGATAAATAACCCGGCTGCCAGAACGGCCCCGAATTACCGGCAGAAAAGAAGGCGTCCGCCTGACCATCCTTCACGGCCTGAGCCGCCATTACGATTGATGAATGCTTCTTACGGCGAACGGCACGTACGGGTTCATCCTCCATCGTAATAACTTCATCAGCATTGATGATTTGAATCCGATCACGGTTCTTCAGTTGCGCGTTAATCACGTCACGTTGACCATATAATAAAAAGACCGTATCCTCAAACAAATCACGAGCCTGCTCGACCCCCTCGATCACAGCGTTAGGGGCGTAATCGCCACCCATGGCATCAATCGCAATTTTAATCATTGTGTCACCATTCCTCTCATCACAGTACTGTATTTAGGTTATTAATCGAGCGTCCCCACCGCAGCCAACTTCTGGCTCAAATAGGCGGCTAGTGCCCGATTATCCGGTTGACTTTGCCAATCCGGTTGCTGCACGATTGCGTGGGCATCTTGCTGGGCAACTTGTAGCACGGTCAAATCCGCAATCGGATCACCCACTTTAAATTCCGGCATTCCCGATTGCTTGACCCCAGCACATCACCGGCTCCTCGTAATTCTAAGTCTTTTTGTGCCAAAACAAAAACCATTTGTTGTCTGCGTCATGATCTGCATCCGCTCAATCCCTTGCTGGTTCTTGGGATCAGCCACCAAAATACAGTATGAAGCCTTGGTCCCACGACCGACGCGTCCGCGTAATTGATGTAGTTGCGCCAAGCCAAAACGGTCAGCATCATAAATCATCATGATTGTGGCATTCTTGACGTCAACACCCACTTCAATCACGGTCGTGGAAACAAGTA"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP012656.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "DEAD,Helicase_C,RecG_wedge Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)",
+        "start": 3,
+        "stop": 311,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DEAD,Helicase_C,RecG_wedge Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)",
+        "start": 274,
+        "stop": 408,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 587,
+        "stop": 874,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 874,
+        "stop": 1134,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 1150,
+        "stop": 1617,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "PP-binding Carrier of the growing fatty acid chain in fatty acid biosynthesis",
+        "start": 1675,
+        "stop": 1836,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Ribonucleas_3_3,dsrm Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre- crRNA and tracrRNA of type II CRISPR loci if present in the organism",
+        "start": 2253,
+        "stop": 2954,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SMC_N,SMC_hinge Required for chromosome condensation and partitioning",
+        "start": 2978,
+        "stop": 3484,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SMC_N,SMC_hinge Required for chromosome condensation and partitioning",
+        "start": 3550,
+        "stop": 3786,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SMC_N,SMC_hinge Required for chromosome condensation and partitioning",
+        "start": 3829,
+        "stop": 4065,
+        "strand": 1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SMC_N,SMC_hinge Required for chromosome condensation and partitioning",
+        "start": 4395,
+        "stop": 5096,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SMC_N,SMC_hinge Required for chromosome condensation and partitioning",
+        "start": 5299,
+        "stop": 5481,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Ribonucleas_3_3,dsrm Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre- crRNA and tracrRNA of type II CRISPR loci if present in the organism",
+        "start": 5659,
+        "stop": 6027,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Ribonucleas_3_3,dsrm Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre- crRNA and tracrRNA of type II CRISPR loci if present in the organism",
+        "start": 6030,
+        "stop": 6200,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "PP-binding Carrier of the growing fatty acid chain in fatty acid biosynthesis",
+        "start": 6608,
+        "stop": 6856,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 6895,
+        "stop": 7209,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 7226,
+        "stop": 7570,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "FA_synthesis Catalyzes the reversible formation of acyl-phosphate (acyl-PO(4)) from acyl- acyl-carrier-protein (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA",
+        "start": 7570,
+        "stop": 7938,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DEAD,Helicase_C,RecG_wedge Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)",
+        "start": 7980,
+        "stop": 8135,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DEAD,Helicase_C,RecG_wedge Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)",
+        "start": 8175,
+        "stop": 8435,
+        "strand": -1,
+        "contig": "NZ_CP012656.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

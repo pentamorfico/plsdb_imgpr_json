@@ -1,0 +1,293 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 01:20:17",
+    "id": "NZ_LR214979.1",
+    "name": "NZ_LR214979.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_LR214979.1",
+          "name": "NZ_LR214979.1",
+          "orientation": "+",
+          "length": 6097,
+          "seq": "AGCTACTACACCTGAAGCAAAAGAAAAGTTAAATAAAGAACTAGATAAAGCAATTAAAGAAATTGAAGATAAATTAAAGAGTTAAATTAAAACGTTATAAATTTGTTACCTGAGTTTTCTAGATACTCAGGTTTTTTAATTATTTTGCTATACATTTAAATGCTATATACTTTAAAAATCAAAAACATTCTTATAAATATTGATATGATCATTTAAATAACGAGTATAAATTCTTTATTTGGAAAATACAAATATATTTAGACAACTAAATAATAACTATAAAAAATTGATAAATATGATGAAAACATAAATGTTAAAAAGCTATTATCAACAATAAATTAAGAAATATGCTTCCAATTGAAGTTAATACTAATACAAAATTTATTGATAAATAAAAATTTCCAGAAATACAGAATATGGTAAACATATAAAGTATTATATTTCATCAAATGCCTAAGATCTATCAACTATTTTAAGCACATTACAAAAAATAAGCATTGTTGACTATTTAAATTATTCTAAAAAGTCTTTTTAAAATATTAGATTTATAATCAAAATTTTAAAAACGTTCTTCTAACTTTAGATGAGCAACCAAAGATGATAATCCATTTAAGACCGTTAGATGAAATTATTATAAAGTTTTTATTATAAGTATTTTATTTATCATCTTGATTAACCTCTTGTTTTTGAATTTTTATACTTTGAATAAAAAATAAAAAGGCAAATAATTAATAGAATTAGTGAATACATTAAAACATTACTACAAATCCAGCATATAAATATAAAACCGTTAGTAACAAAATTAATATTGTATAAAAAACTATCCTATAAACTAAGATATATGAATTTTGTCTAGTGAATTCTTTTTTATCAAATATCATAAATATATAATTATTACCAATAGGCAAAACCAACGAACTAAGCATTTGCGTCAAAGCATTTAAAATTAAGTACGATATTAACAATAATTTTGGGTCATTTATAATATTTAAAAAAAGTCAGATAAAGCTTAATAATGCAATTACTAAAATAATAATATTAAAATATAAAGACCTATTATGAGCATTTATTTTATTTAGCAAAAAGGAACACAAGGTTCCTATTAAACCAAAACCAAATATACAAATTGTAAAAATAAAGGTTCACTCTTTATAATCATAATTAACAAAACTGAAAAATTGATTAATTCCTGCTTGTTTTGGATAAAGTAAGATTGTTATTAAAAATCCTAGCGAAATTGCAAAAGTTCAATTTAAATATTTATTTTTGCTAGTTTTAATTTCAACATCGTGTTGTTCAATAAATTCAATATGATTCTTCTTTTGCTTTAAACATAAATATAATGATGTTGAAGTTAGAAATGTAATCATATTTAATAATAATGTAGCTCAAAAAGGAAAATATTTAAATAACAAAAAGCCTAAAATTGGTGATAAAAATGAAGCAAAAGATAATCCTAATGAGTTAAATAAATTATATTGTTTCATATCATGAGAATTATTTGATAAATAAAAAATTATATTTTTAATAGCTAAAAATCTAAAACTGTTAAATAAACCATATAATGAACTAGAAATAGTTAAAATCCAAGAAAATGTGTGCCCATAAATATTCGTATCAATTAAAAAGTAAATCACAAAAACAATTAATACAACTAAAAAACTTGAAAAATCTGCAAAAAATATGATTTGCTTATTAGTGAATTTTTGAACAATTTTTGGCCCAAAAAATATATACAATTAAAGCTGGCAATTGGATAAATAGATAAAACAATGAAACAAGTCAAAAATTTTCTGTTAATTTAAAAATATAAACTGACGAACTTAACTTAACCGCTTCTGTTCCTAAAATAGAAATTATTAAAGCGGATGTATATTTAAACTTATTAATAATGTTGGTTTTTTTAGTTATTACTTGTTCCATAATTTGTCCTAATATTTAATTATATTACAATCTTACTATTGCTAAAACTCTAAATTTAATAGCTCAAAATAGCAATTTTAAGCTATATTTAAGCAATTATTATCAAGGATAAATAAAAAAATATAATAAAATATATTTATGGGATTTTTTAAAAATTTAATTAATAAAGTTTTCAAAAAAGAAAACAAACAAGATATTCAAACTCTAAAAGAAGAATTAAAAGAGCAAAAGCAAAAAGAGATCTTAACAAGTGAAAAATTTAAAAAATATGAAAATGGTCTTAAAAATAGCTCTGATTTTGGTAAAAAACTTTTAGAAATTCAAAACAAATATAATCAAATAGATGAAGACTTTTTTGAAGAATTAGAAGAACTACTAATAATGTCTGATATTAACTTAAAACTAGTTGATGTAATTATTGAAAAAATCAAGCAAGAAGTAAAAATAAATAATATCGATGATCCAAAACTTATTGGCGAGCTTATTGCTGATCAACTTTTTGTAATATATACTGGAAATACAATTACTAATACTAACTTAAATTTTTCTGATGGTAGATTAAATATTTTTATCTTTGTAGGTGTTAATGGCTCAGGCAAAACAACTTCTATTGCTAAAATAGCAAATAAATACATCAAAGAAGGTAAAAAGTTTTAATAGCAGCCGCTGATACATTTAGAGCTGGCGCAGTAAACCAATTGGGTATTTGAGCAGATAGAATAGGGGCTAAAATTATAAAACCACAAAAAGAAGGCGCCGATCCTGCTTCAGTTGTATATGAATCACTTGATAAAGCCACTAGTGAACATTATGATTTATTAATCATTGATACAGCTGGAAGATTGCAAAATAAAATAAACTTAATGAATGAACTTTCTAAAATGGTTAATATTATTAAACGTTTTGTACCGGATGCTCCGCATGAATCATTGCTGGTTTTAGATGCAACAACCGGACAAAATGGTCTGTCACAAGCAAAAAACTTTAAAGAAATTGCTAATTTGACTGGTGTTATTTTGACAAAACTAGACGGAACCTCAAAAGGAGGTATAGTTCTTTCTATTAAAGATGAATATAATTTAGATGTTAAATATGTTGGATTAGGTGAAAAACTTGATGATTTACAAGAATTTGATCTTGATCTATTTATTTATATGATAAGGATCTTTTAACTGAGTATAAGAACCTTAGTCATATAAATAAATAGATCAAGATCAAATTCTTGTAAATCATCAAGTTTTTCACCTAATCCAACATATTTAACATCTAAATTATATTCATCTTTAATAGAAAGAACTATACCTCCTTTTGAGGTTCCGTCTAGTTTTGTCAAAATAACACCAGTCAAATTAGCAATTTCTTTAAAGTTTTTTGCTTGTGACAGACCATTTTGTCCGGTTGTTGCATCTAAAACCAGCAATGATTCATGCGGAGCATCCGGTACAAAACGTTTAATAATATTAACCATTTTAGAAAGTTCATTCATTAAGTTTATTTTATTTTGCAATCTTCCAGCTGTATCAATGATTAATAAATCATAATGTTCACTAGTGGCTTTATCAAGTGATTCATATACAACTGAAGCAGGATCGGCGCCTTCTTTTTGTGGTTTTATAATTTTAGCCCCTATTCTATCTGCTCAAATACCCAATTGGTTTACTGCGCCAGCTCTAAATGTATCAGCGGCTGCTATTAAAACTTTTTTACCTTCTTTGATGTATTTATTTGCTATTTTAGCAATAGAAGTTGTTTTGCCTGAGCCATTAACACCTACAAAGATAAAAATATTTAATCTACCATCAGAAAAATTTAAGTTAGTATTAGTAATTGTATTTCCAGTATATATTACAAAAAGTTGATCAGCAATAAGCTCGCCAATAAGTTTTGGATCATCGATATTATTTATTTTTACTTCTTGCTTGATTTTTTCAATAATTACATCAACTAGTTTTAAGTTAATATCAGACATTATTAGTAGTTCTTCTAATTCTTCAAAAAAGTCTTCATCTATTTGATTATATTTGTTTTGAATTTCTAAAAGTTTTTTACCAAAATCAGAGCTATTTTTAAGACCATTTTCATATTTTTTAAATTTTTCACTTGTTAAGATCTCTTTTTGCTTTTGCTCTTTTAATTCTTCTTTTAGAGTTTGAATATCTTGTTTGTTTTCTTTTTTGAAAACTTTATTAATTAAATTTTTAAAAAATCCCATAAATATATTTTATTATATTTTTTTATTTATCCTTGATAATAATTGCTTAAATATAGCTTAAAATTGCTATTTTGAGCTATTAAATTTAGAGTTTTAGCAATAGTAAGATTGTAATATAATTAAATATTAGGACAAATTATGGAACAAGTAATAACTAAAAAAACCAACATTATTAATAAGTTTAAATATACATCCGCTTTAATAATTTCTATTTTAGGAACAGAAGCGGTTAAGTTAAGTTCGTCAGTTTATATTTTTAAATTAACAGAAAATTTTTGACTTGTTTCATTGTTTTATCTATTTATCCAATTGCCAGCTTTAATTGTATATATTTTTGGGCCAAAAATTGTTCAAAAATTCACTAATAAGCAAATCATATTTTTTGCAGATTTTTCAAGTTTTTTAGTTGTATTAATTGTTTTTGTGATTTACTTTTTAATTGATACGAATATTTATGGGCACACATTTTCTTGGATTTTAACTATTTCTAGTTCATTATATGGTTTATTTAACAGTTTTAGATTTTTAGCTATTAAAAATATAATTTTTTATTTATCAAATAATTCTCATGATATGAAACAATATAATTTATTTAACTCATTAGGATTATCTTTTGCTTCATTTTTATCACCAATTTTAGGCTTTTTGTTATTTAAATATTTTCCTTTTTGAGCTACATTATTATTAAATATGATTACATTTCTAACTTCAACATCATTATATTTATGTTTAAAGCAAAAGAAGAATCATATTGAATTTATTGAACAACACGATGTTGAAATTAAAACTAGCAAAAATAAATATTTAAATTGAACTTTTGCAATTTCGCTAGGATTTTTAATAACAATCTTACTTTATCCAAAACAAGCAGGAATTAATCAATTTTTCAGTTTTGTTAATTATGATTATAAAGAGTGAACCTTTATTTTTACAATTTGTATATTTGGTTTTGGTTTAATAGGAACCTTGTGTTCCTTTTTGCTAAATAAAATAAATGCTCATAATAGGTCTTTATATTTTAATATTATTATTTTAGTAATTGCATTATTAAGCTTTATCTGACTTTTTTTAAATATTATAAATGACCCAAAATTATTGTTAATATCGTACTTAATTTTAAATGCTTTGACGCAAATGCTTAGTTCGTTGGTTTTGCCTATTGGTAATAATTATATATTTATGATATTTGATAAAAAAGAATTCACTAGACAAAATTCATATATCTTAGTTTATAGGATAGTTTTTTATACAATATTAATTTTGTTACTAACGGTTTTATATTTATATGCTGGATTTGTAGTAATGTTTTTAATGTATTCACTAATTCTATTAATTATTTGCCTTTTTATTTTTTATTCAAAGTATAAAATTCAAAAACAAGAGGTTAATCAAGATGATAAATAAAATACTTATAATAAAAACTTTATAATAATTTCATCTAACGGTCTTAAATGGATTATCATCTTGGTTGCTCATCTAAAGTTAGAAGAACGTTTTTAAAATTTTGATTATAAATCTAATATTTTAAAAAGACTTTTTAGAATAATTTAAATAGTCAACAATGCTTATTTTTTGTAATGTGCTTAAAATAGTTGATAGATCTTAGGCATTTGATGAAATATAATACTTTATATGTTTACCATATTCTGTATTTCTGGAAATTTTTATTTTATCAATAAATTTTGTATTAGTATTAACTTCAATTTGGAAGCATATTTCTTAATTTATTGTTGATAATAGCTTTTTTAACATTTATGTTTTCATCATATTTATCAATTTTTATAGTTATTATTTAGTTGTCTAAATATATTTGTATTTCCAAATAAAGAATTTATACTCGTTATTTAAATGATCATATCAATATTTTATAAGAATGTTTTTGATTTTTAAAAGTATATAGCATTTTAAATGTATAGCAAAAATAATTAAAAAACCTGAGTATCTAGAAAACTCAGGTAACAA"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_LR214979.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 2,
+        "stop": 85,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 750,
+        "stop": 926,
+        "strand": -1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 1389,
+        "stop": 1739,
+        "strand": -1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 1783,
+        "stop": 1923,
+        "strand": -1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SRP54,SRP54_N Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC)",
+        "start": 2062,
+        "stop": 2580,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SRP54,SRP54_N Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC)",
+        "start": 2787,
+        "stop": 3095,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SRP54,SRP54_N Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC)",
+        "start": 3092,
+        "stop": 3409,
+        "strand": -1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "SRP54,SRP54_N Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC)",
+        "start": 3563,
+        "stop": 4135,
+        "strand": -1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 4274,
+        "stop": 4414,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 4424,
+        "stop": 4807,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MFS_1,Methyltransf_25 methyltransferase",
+        "start": 5270,
+        "stop": 5539,
+        "strand": 1,
+        "contig": "NZ_LR214979.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

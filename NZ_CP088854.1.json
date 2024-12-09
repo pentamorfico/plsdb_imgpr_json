@@ -1,0 +1,297 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-12-05 07:26:36",
+    "id": "NZ_CP088854.1",
+    "name": "NZ_CP088854.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP088854.1",
+          "name": "NZ_CP088854.1",
+          "orientation": "+",
+          "length": 6647,
+          "seq": "CATCCGTTTTTGGCGAAAAAGAGTAAAACGGCGAGATGAGTGCACAGCCAGAACCCAGCCAGAAAACAACTGATTATTGATGGTGACATGATGCCGACAATCGAGGCCACAGCGCCCAGCCAACACAGCCAAACACAGCGCGCGACCAAATTCGAATGACTGCGACGGCTGACTTTCTCGATAAATGCCTCTACTGCTGGCGCACCGGCGTTTAAAACAAAAGCCAAGATAAATACCACCAACAATCGATCCTACTAAAATGTTGTATTGTAACAGTGGTCCGAAGATAAAAATAAAGACGGCGCAAAACATCACTAACATGCCGGTAATAATCCACAGCAGGTATTTGCGCAGCCCGAGTTTTCAGAAACAGACCCAAACAGCGGTTGGAATAATAGCGAGAACAGAGAATAGCGGCAAAAATAATACCCGTATCACTTTTGCTGATATGGTTGATGTCATGTAGCCAAATCGGGAAAACGGAAGTAGGTAATGACTCCAACTTACTGATAGTGTTTTATGTTCAGATAATGCCCGATGACCTTGTCATGCAGCTCCACCGATTTTGAGAACGACAGTGACTTCCGTCCCAGCCTTGCCAGATGTTGTCTCAGATTCAGGTTATGCCGCTCAATTCGCTGAGTGTAACGCTTGCTGATTACGTGCAGCTTTCCCTTCAGGCGGGATTCATACAGCGGCCAGCCATCCGTCATCCATACCACGACCTCAAAGGCCGACAGCAGGCTTAGAAGACGCTCCAGTGTGGCCAGAGTGCGTTCACCGAATACGTGCGCAACAACCGTCTTCCGGAGCCTGTCATACGCGTAAAACAGCCAGCGCTGGCGCGATTTAGCCCCGACGTATCCCCACTGTTCGTCCATTTCCGCGCAGACGATGACGTCACTGCCCGGCTGTATGCGCGAGGTTACCGACTGCGGCCTGAGTTTTTTAAATGGCGGAAAATCGTGTTGAGGCCAACGCCCATAATGCGGGCGGTTGCCCGGCATCCAACGCCATTCATGGCCATATCAATGATTTTCTGGTGCGTACCGGGTTGAGAAGCGGTGTAAGTGAACTGCAGTTGCCATGTTTTACGGCAGTGAGAGCAGAGATAGCGCTGATGTCCGGCGGTGCTTTTGCCGTTACGCACCACCCCGTCAGTAGCTGAACAGGAGGGACAGCTGATAGAAACAGAAGCCACTGGAGCACCTCAAAAACACCATCATACACTAAATCAGTAAGTTGGCAGCATCACCCGGGAAGTAGGCTCCCATGATAAAAAAGTAAAAGAAAAAGAATAAACCGAACATCCAAAAGTTTGTGTTTTTTAAATAGTACATAATGGATTTCCTTACGCGAAATACGGGCAGACATGGCCTGCCCGGTTATTATTATTTTTGACACCAGACCAACTGGTAATGGTAGCGACCGGCGCTCAGCTGGAATTCCGCCGATACTGACGGGCTCCAGGAGTCGTCGCCACCAATCCCCATATGGAAACCGTCGATATTCAGCCATGTGCCTTCTTCCGCGTGCAGCAGATGGCGATGGCTGGTTTCCATCAGTTGTTGTTGGCTGTAGCGGCTGATGTTGAACTGGAAGTCGCCGCGCCACTGGTGTGGGCCATAATTCAATTCGCGCGTCCCGCAGCGCAGACCGTTTTCGCTCGGGAAGACGTACGGGGTATACATGTCTGACAATGGCAGATCCCAGCGGTTAAAACAGGCTGCAGTAAGGCGGTCGGGATAGTTTTCTTGCGGCCCCAGGCCGAGCCAGTTTACCCGCTCTGCGACCTGCGCCAGCTGGCAGGTCAGGCCAATCCGCGCCGGATGCGGTGTATCGCTCGCTACTTCAACACCTACACTGACGACCATCTCGCCGTGTCCATCAATCCGGTAGGTTTTCCGGCTGATAAATAAGGTTTTCCCCTGATGCTGCCACGCGTGGGCGGTCGTAATCAGCACCGCGTCGGCAAGTGTATCTGCCGTGCACTGCAACAACGCCGCTTCGGCCTGGTAATGGCCAGCCGCCTTCCAGCGTTTCGACCCAGGCGTTAGGGTCAATGCGGGTCGCTTCACTTACGCCAATGTCGTTATCCAGCGGCGCACGGGTGAACTGAATCGCGCAGCGGGTCAGCAGTTTGTTTTTCATCGCCAATCCACACTGTGAAAGAAAGCCTGACTGGCGGTTAAATTGCCAACGCTTATTACCCACTCGATGCAAAAATCCGTTTCGCTGGTGGTCAGTTGAGGGATGGCGTGGACGCGGAGGGGAGTGTCACGCTGAGGTTTTCCGCCAGACGCCATTGCTGCCAGGCGCTGATGTGTCCGGCTTCTGACCATGCGGTCGCGTTTGGTTGCACTACGCGTACCGTTAGCCAGAGTTGTCCGGCGCTCTCCGGCTGCGGCAGTTTCAGGCAGTTCAATCAACTGCTTACCTTGCGGGCCAACATCCAGAGGCACTTCACCGCTTGCCAGCGGCTTGCCATCCAGCGCCACCATCCAGTGCAGGAACTCGTTATCGCTATGACGGAACAGGTATTCGCTGGTCACTTCGATGGTTCGCCCGGATAAACGGAACTGGAAATACTGCTGTTGGTGTTTTGCTTCCGTCAGCGCCGGATGCGGCGTGCGGTCGGCAAAGACCAGACCGTTCATACAGAACTGGCGATCGTTCGGCGTATCGCCAAAATCACCGCCGTAAGCCGACCACGGGTTGCCGTTTTCATCATATTTAATCAGCGACTGATCCACCCAGTCCCAGACGAAGCCGCCCTGTAAAACGGGGGTACTGACGAAACGCCTGCCAGTATTTAGCGAAGCCGCCAGACTGTTACCCATCGCGTGGGCATATTCGCAAAGGATCAGCGGGCGCATTTCTCCAGGCAGCGAAAGCCATTTTTTGATGGACCATTTCGGCACCGCCGGAAGGGCTGGTCTTCATCCACGCGCGCGTACATCGGGCAAATAATATCGGTTGCGGAGGTGTCGGCTCCGCCGCCTTCATACTGTACCGGGCGGGAAGGATCGACAGATTTGATCCAGCGATAGAGTGCGTCGTGATTAGCGCCGTGGCCTGACTCATTCCCCAGCGACCAGATGATCACACTCGGTGATTACGATCGCGCTGCACCATCCGCGTTACGCGTTCGCTCATCGCGGTAGCCAGCGCGGATCATCGGTCAGACGATTCATTGGCACCATGCCGTGGGTTTCAATATTGGCTTCATCCACCACATACAGGCCGTAAACGGTCGCACAGCGTGTACCACAGCGGATGGTTCGGATAATGCGAACAGCGCACGGCATTAAAGTTGTTCTGCTTCCATCAGCAGGATATCCTGCACCATCGTCTGCTCATCCATGACCTGACCATGCAGAGGATGATGCTCGTGACGGTTAACGCCGCGAATCAGCAACGGCTTGCCGTTCAGCAGCAGCAGACCATTTTCAATCCGCACCTCGAGGAAACGACATCGCAGGCTTCTGCTTCAATCAGCGTGCCGTCGGCGGTGTGCAGTTTAACCACCGCACGATAGAGATTCGGGATTTCGGCGCTCCACAGTTCCGGATTTTCAACGTTCAGGCGTAGCGTGACGCGATCGGCATAACCGCCACGCTCATCGATAATTTCACCGCCGAAAGGCGCGGTGCCGCTGGCGACCTGCGTTTCACCCTGCCACAAAAAACCGTCACCCGCAGTTCATCGCGCAGCTCGCCGTACATCTGAACTTCTGCCTCCAGTACCGCGCGGCTGAAATCATCATTAAAGCGTGGTAACTTGGAAATCGCTGATTTGCGTGGTCGGTTTATGCAGCAACGAGACGTCACGGAAAATGCCGCTCATCCGCCACATATCCTGATCTTCCAGATAACTGCCGTCACTCCAGCGCAGCACCATCACCGCGAGGCGGTTTCTCCGGCGCGTAAAAATGCGCTCAGGTCAAATTCAGACGGCAAACGGCTGTCCTGGCCGTAACCGACCCAGCGCCGTTGCACCACAGATGAAACGCCGAGTTAACGCCATCAAAAATAATTCGCGTCTGGCCTTCCTGTAGCCAGCTTTCATCAACATTAAATGTGAGCGAGTAACAACCTGTCGGATTCTCCGCGGGAACAAACGGCGGATTGACCGTAATGGGATAGGTTACGTTGGTGTAGATGGGCGCGTCGTAACCGTGCATCTGCCAGTTTGAGGGGACGACGACAGTATCGGCGTCAGGAAGATCGCACTCCAGCCAGCTTTCCGGCACACGCTTCTGGTGCCGGAAACCAGGCAAAGCGCCATTCGCCATTCAGGCTGCGCAACTGTTGGGAAGGGCGATCGGTGCGGGCCTCTTCGCTATTTCGCCAGCTGGCGAAAGGGGGATGTGCCGCAAGGCGATTAAGTTGTGTAACGCCAGGGTTTTCCCAGTCACGACGTTGTAATACGACGGCCAGAGAATCCGTAATCATAGTCATAGCTGTATCCTGTGTGAAATTGTTATCCGCTCACAATTTCACACACATACGAGCCGGACACATAGAGTGTAAAGACTGGGTGCCTAATGAGTGAGCTGACTCACATTAATTGTGTTGCGCTCACTGCCCGCTTTCCAGTCGGGAAACTTGTCGTGCCAGCTGCATTATGAATCGGCAACGCGCGGGGAGAGGCGGTTTGCGTATTGGGCGGAAGGGTGGTTTTTCTTTCACCAGTGAGACGGGCAACAGCTGATTGCCCTTCACCGCCTGGCCCTGAGAGAGTTGCAGCAAGCGGTCCACGCTGGTTTGCCCCAGCAGGCGAAAATCCTGTTTGATGGTGGTTACGGCGGGATATAACACGAGCTGTCTTCGGTATCGTCGTATCCCACTACCGAGATATCCGCCCCAACGCGCAGCCCGGACTCGGTAATGGCGCGCATTGCGCCCAGCGCCATCTGATCGTTGGCAACCAGCATCGCAGTGGGAACGATGCCCTCATTTAGCATTTGCATGGTTTGTTGAAAAACCGGACATGGCACTCCAGTCGCCTTCCGTTCTGTTATCGGCTGAATTTGATTGCGTGTGAGATATTTATGCCAGCCCGCCAGACGCAGACGCGCCGAGACAGAACTTAATGGGCCTGCTAACAGCGCGATTTGCTGGTGACCCCAATGCGACCAGTGCTCCACACGCCCAGCTCGTACCGTCTTCATGGGAGAAAATAATACTGTTGATGGGAGTCTGGTCAGAGACATCAAGAAATAAGCCGGAACATTAGCGCAGGCAGCTTCCACAGCAATGGCATCCTGGTCATCCAGCGGATAGTTAATGATCAGCCCACTGACGCTTGCGCGAGAAGATTGTGCACCGCCGCTTTACAGGCTTCGACGCCGCTCGTTCTACCATCGACACCACCACGCTGGCACCCAGTTGATCGGCGCGAGATTTTATCGCCGCAACAATTTGCGACGGCGCGTGCAGGGCCAGACTGGAAGTGGCAACGCCAATCAGCAACGACTGTTTGCCCGCCAGTTGTTGTGCCACGCGGTTGGGAATGTAATTCAGCTCCGCCATCGCCGCTTCCACTTTTTCCCGCGTTTTTCGCTGAAACGTGGCAGGCCTGGTTCACACACGCGGGAAACGGTCTGATAAGAGACACCGGCATACTCGCGACATCGTATAGCGTTACTGGTTTCACATTCACCACCCTGAATTGACTCTCTTCCGGGCGCTATCATGCCATACCACGAAAGGTTTTGCGCCATTCGATGTGTCAGCGTAAATGCACGCCGCTTCGCCTTCCCGCTACCAGAATAGCCTGCGATTCAACCCCTTCTTCGATCTGTTTTGCCACCCGTTGCAGCGCCGGAAGATGCTTTTCCGCTGCCTGTTCGATGGTCATTGCGCTCGCCATATACACCAGATTCAGACAGCCAATCACCCGTTGTTCACTGCGCAGCGGTACGGCGATAGAGGCGATCTTCTCCTCCTGATCCCAGCCGCGGTAGTTCTGTCCGTACCCCTCTTTGCGCGCGCGCGCGAATGGCTTCCAGCTTTAACGGTTCTCGTGCCAGTTGATAGTCATCACCGGGCGGGAGGCTAACATCTCGATTAATTCCTTGCGTTCTTGTTCCGGGCAAAAGGCCAGCCAGGTCAGGCCCGAGGCGGTTTTCAGAAGCGGTAACCGTCGCCCGACCATTGCCCGGTGAAAAGATAAGCGGCTGAAACGATGGGTGGTTTCGCGTACCACCATTGCTCAACATCCAGCGTGGACACATCTGTCGGCCATACACTTCGCGCAACAGATCGCCCAGCAGCGGGGCCGCCAGTGCAGAAATCCACTGTTCGTCACGAAATCCTTCGCTTAATTGCCGCACTTTGATGGTCAGACGAAAACTGTCATCGGAGGTACTGCGCCGGACATATCCCTCTTCCAGTAACGTCTCCAGCAGTCGCCGCACAGTGGTGCGATGCAGGCGGCTGAGTTCCGCAGCAGCCCGACGCTGCACCGCCATCAAGTTTATTTAACATATTTAATAACATTAGACCGCGGGTTAAGCCGCGCACGGTTTTGTATTCCGTCTGCTCATTGTTCTGCATATTAATTGACATTATATAGTTAAAACAACGTTGTGCACCTGGTGCACATTCGGGCATGTTTGATTGTAGCCGAAAACACCCTTCCTA"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP088854.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 10",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 10",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "DDE_Tnp_IS1_s1",
+        "start": 504,
+        "stop": 881,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "Integrase",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000001346|insA3|P0CF08|integration/excision|NA|Multiple|Manual HTH_Tnp_IS1,Zn_Tnp_IS1 cog cog3677",
+        "start": 926,
+        "stop": 1201,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "LacY_symp Responsible for transport of beta-galactosides into the cell, with the concomitant import of a proton (symport system). Can transport lactose, melibiose, lactulose or the analog methyl- 1-thio-beta,D-galactopyranoside (TMG), but not sucrose or fructose. The substrate specificity is directed toward the galactopyranosyl moiety of the substrate",
+        "start": 1230,
+        "stop": 1340,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Bgal_small_N,DUF4981,Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N Belongs to the glycosyl hydrolase 2 family",
+        "start": 1392,
+        "stop": 1874,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Bgal_small_N,DUF4981,Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N Belongs to the glycosyl hydrolase 2 family",
+        "start": 1888,
+        "stop": 2151,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Bgal_small_N,DUF4981,Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N Belongs to the glycosyl hydrolase 2 family",
+        "start": 2148,
+        "stop": 2876,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Bgal_small_N,DUF4981,Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N Belongs to the glycosyl hydrolase 2 family",
+        "start": 3153,
+        "stop": 3308,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "Bgal_small_N,DUF4981,Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N Belongs to the glycosyl hydrolase 2 family",
+        "start": 4218,
+        "stop": 4460,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "LacI,Peripla_BP_3 binds specific sites in lac operon resulting in DNA looping between the operators",
+        "start": 4802,
+        "stop": 5254,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "LacI,Peripla_BP_3 binds specific sites in lac operon resulting in DNA looping between the operators",
+        "start": 5286,
+        "stop": 5534,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "HTH_IclR,IclR Activator of the mhpABCDFE operon coding for components of the 3-hydroxyphenylpropionate degradation pathway",
+        "start": 5909,
+        "stop": 6475,
+        "strand": -1,
+        "contig": "NZ_CP088854.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "MGE",
+        "name": "ISSen9",
+        "start": 489,
+        "stop": 1256,
+        "color": "rgba(0,0,255,0.3)",
+        "thickness": 0.1,
+        "legend": "MGE"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

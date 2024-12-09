@@ -1,0 +1,245 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-11-27 03:55:56",
+    "id": "NZ_CP069924.1",
+    "name": "NZ_CP069924.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP069924.1",
+          "name": "NZ_CP069924.1",
+          "orientation": "+",
+          "length": 5374,
+          "seq": "GAACCCACTCGGCGTTCTTGTGAAAAGTTTCGCCTGCATCCCACCACCATTGTCAATTTCGTTGAAGGCTCCCGTTTCACGCAAGAAAAACATCAGCAAACCCACTCCACTTTTCAAAACTTGTTGCCACCAAAGGCGGCAGGCATTGCGATGGCGCTAAATGTACTGGGTAAACAATTCGATAAACTGCTTAATGTTACGCTGTGTTATCCGGACAATAACCGTCAGCCGTTCTTCGATATGTTAAGCGGTAAACTGACGCGGATTGTCGTACATGTGGATTTACAGCCTATTGCCGATGAGTTACATGGCGACTACATCAATGACAAAAGCTTTAAGCGCCATTTTCAGCAATGGCTGAACTCATTGTGGCAGGAAAAAGACCGGCTTCTGACGTCTCTCATGTCATCACAGCGTCAGAATAAGTAAGTTTTACTCGCCTCTGAATGAGCAGAGGCGAGTGAGTATTTTAATGAACAAAACGTCCGGCACGAGACATAAATTCTTCTTCGCTCATCTCCTGTCCGTTAAAAACAACTTTACCCGGTGTATAACGCAGCTGCAGCGAGGCGGTATTGTTGTCAATCGTGATTAACTGAAACATCTGACCTAATGTCATCATCCCGCTGATTTGTTTATCAGCCTGCTTTTGCGCTTTTTCCGCATCCATTCCTTCAGATAAATTAAGCTGTTTTGCGGTTTCTGTGACGACATTAAGCGGTAACTTCACATCAAAATTGAGCGATTTGATATCTTTGTTTGTGGATGATGAAGATTTGGCTGGGTCGGCAATACTGATATCCAGATTGGCATTTAGTTCGCCGAGTGCGTTCTTCCATCTTACCGGTTGTTTAATGGTCGGCTCACTTTTTTGTAATAACGGTAAATACTCTTTGAACAATGCAGCATTCACTTCTTGCAGAGCAACTTCATCGTTTGCTAACTCAGGGTGTGCAGCAAGCTGCTTCTGCATCGCAATGTTATACTGGATGATAAATTGGCGCACTGCTGAGGGATCAATAGATTCAGCAATCAATGACCACTCACCACTACCGAGTTGCTGATTCCCTTTTGTTAACTTATCAAGTTCGTAGGTGAGATTGACATTGATATAATCTTTGTCTTTAACGCGATCCAGCCTGGTTTTTGCAACGAAAGCATCGATTTGGGCAACGTCTTCCCCGTGATTGATAATGTTAATCTGATTAAATTTCGACTCGCTTTCACCAACCGGAAATTTCTTTTCTTCTAATCGCGCCAGAGAATCAATGGTAAAACTTTTTGCCGTTACTTTGTTCATTGGTGATAATTGCAGAACAATATCTTCGACTTTGCCTTCAATATCCAGGTTAGACAATGAACTACCATCACCATTAAAAGTAAACTGGCCCTCACCAAAAGAAAACTTTCCATACTCTGCAGGGGCAACATCTAATGTCGTAGAGAATGAGCCACCAAACGCGAATCGCAATGTCGCTTCCACGGGCGATTTATTTTTCGCGGCGATAAATAGCGGTTGTGTCAGTTCATTATTCACTAAGTTCACTTTTGCCGCTGCCAGTGCTGGGATGACATTACCATGCATTAACATTGTGATGGGCAACGGACCGTGCTCAACATCCACATCAAATACAACTTTCTGGCCTGGCTTGATATTGAGATCGGGTGCACCGTTATCGAATGTCATTTGCATTTGAAAACGGGAATTAAAAAAGCCTTTGTCAAAATTTTGATAACTTAACGTCATATCGTAGGCATGTTCACCTTTCTTTTTAGCATCGTTAAAATCTTTAATAAATTTTTCGACACCAGGCTGAATTTGCGTACCTGTGTACCATGTGCCACCACCCCAGATTACGGCTAACGCAACAATAACACCTGTAGCTGACTTACGTATCATATAAATATTCCCTGATAAAACAGCAAAACTTTGAATATCCACTTATGCTGAAATAATGTCCAGCGGCAGGATGCATTATCAGAATGTATTTATATTTATTAAATAATAAAAAAGCCCGTGAATATTCACGGGCTTTATGTAATTTACATTGAATTATTTTTTCTCGGACAGATATTTCACTGTATCAGCATACTGCTGAACAAAAACATCCATATTGCTGGTATCCATACCCTGCGGATTCAGCTGATATTTACCGTTAACAAACATCGCCGGAACGCCACGCAATTGCACGTCAGCTGCAGCTTTTTCCTGCTGAGCGACCAGAGATTTCACCACGAAGCTGTTCCACGCCGCGTCGTACTCTTCACCTTTAATACCTGCGTTGATAAATACATCGCGGATATCAGAAGCAGAACGAATGGTCTGGGTTTTCTGTACGCCTTCAAACAGCGGAACAGTCACTTTGTCTTCCACGCCCAGCGCCATCGCCACAGCCCATGCCTGAGTCAGATCTTTGCCCAGGTCACCACCCATGAAGTTGACGTGGTATTTAGTCATCTTCACGCCTTCCGGCAGTTTTTTCTTCACATTATCAGAAATATGCAGAACTTCTTCAAACTGATAGCAGTGCGGGCAGAAGAAAGAGAAAAACTCCAGCACTTGCGGCGCGCCAGCTACCGGTTTTTCCAGGGTAGTGTACTGTTTACCATCTTCATACTGCGCCGCCGATGCGCTAAACGCTAAAACTAAACCAGCCAGCGCCAGCCAAATCTTTTTCATGATCTACTCTCTCCGATTAATACATAGGTGTTAATTGCAAAGGGGGTTCTTGTAGAACTTTTGCCTGTTCTATAAAAGTCGCCGTCTGTCGCAACCAGTAATCTTCCCCGGTTAACCACGGGAAATTTTTCGGGAACGCGGGATCAGCCCAACGCCGCATTAGCCAGGCAAGATAATAAACCAAACGCATGGCGCGTAAAGGTTCAATCAGTCCGATTTCAGCGGTGTCGAACTCGCTAAATTCTTCATAAGCTTCAATAATAGTTTCCAGTTGCATCCGCTGCTCGGCTTTATCGCCATTGAGCAACATCCACAAATCCTGAACGGCTGGACCATTACGTGCATCATCCAGATCAACAAACATTGGACCATCGCGCCAGAGAATATTCCCGGCGTGGCAGTCTCCATGTAGCCGCAGAACGGTGAAATCTTCCCGCCAGTGTGCTGTAACGGCGGCAATCAGCTCATCTGTCGCTTTCAGGAATGCCGCTTTCAACCCGGAAGGTATCAGTGTAGCGTCCTCAAACAGCTTGCGTGGCTCAATGAGATATTCGTTCAAACCGATGGTCGGGCGATGGATAAAAAGCTGTTTGCGCCCCGTCTGGTGCATACGCCCTAAATAACGCCCAACCGCTTCCATCTGATCGATATTATCAGCTTCGAACTGGCGACCACCGACGCTTGGAAAAACAGCGAAATAAAATCCCTGATGATTCAATAAAGTCTGACCGTTAAAGGCCACAGGTGCTGCGACCGGAACTTCATCATTTACCAGCTGCAACGCAAATTGATGTTCTTCGAGGATTTGATCGGCTGTCCAACGTTCAGGGCGATAAAATTTGACGACAAAACGTCGACGATCTTCGTCCTGAAATTGATAGACACGGTTTTCATAGCTGTTAAGCGGGGTAAGACCGGAATCCACCCGGATCCCATGCTCAAACAGAGCGTCCATGATGGTATCCGGGTGTAGTGTCTGGAAAGTAAAAGCGCTGTTATTCATCCCATCATCCGGAAAACATTACGAATGACGAAGGATATCATTTCACGATGATTTTGGTGGCGCCGCTTACAAGCTTTTACTCTTTAATTACGCCGCGAGCGCGTAACAGCGCCGTTTTGAAGTCTTCTTCATAATCTTTCTGCAAACCCGGGATCACCGCATCTTTCGCGGAATCACGCATTTTCAGGTGATAGATCAGAATGTCATCCGTCAAATCCGCCAGTTCGCCGTCAAAACCTGACTCTTTCGCCAGTTTCTGCAAAAATTGCAGCAGGTTAAGGTCTGGCTCTTTTTGCCAGGCTGGCTGGAGGAGTTCAATAACTTCATTCAGACGTTTACATTTCATAGTGATGCTCCTTACTCTTGAGACAGACACGTTAGCAGGGTCAATCCCACAATAAAAGAGGCGATATCGGTGAATCTGATGACGACGATAACAGGCGTTGTGCTGGCAGGCGGTAAAGCCAGACGAATGGGCGGCGTAGATAAAGGATTGCTTGAATTAAACGGCAAACCATTATGGCAACATGTCGCTGACGCGCTTATGACGCAGCTCTCTCACGTCGTGGTTAATGCTAATCGTCATCAGGAAATCTATCAGGCAAGCGGTCTGAAAGTGATTGAAGATTCACTGGCGGATTACCCAGGCCCTCTGGCAGGAATGCTTTCAGTAATGCAGCAGGAAGCTGGTGAGTGGTTTTTGTTTTGCCCGTGCGATACGCCTTACATTCCCCCTGATTTAGCAGCCAGGCTTAATCATCAGCGCAAAGATGCGCCTGTCGTGTGGGTCCATGACGGTGAACGCGATCACCCGACTATTGCTCTGGTAAACCGCGCTATTGAGCCTTTATTACTGGAATATCTGCAAGCAGGAGAACGCCGGGTAATGGTATTTATGCGTCTGGCTGGCGGTCATGCGGTTGATTTCAGCGATCATAAAGATGCATTTGTTAACGTGAATACGCCAGAGGAGCTTGCCCGATGGCAGGAAAAACGATGATACCGTTACTCGCCTTTGCCGCGTGGAGTGGTACCGGAAAAACTACGCTTTTGAAAAAACTGATCCCGGCATTATGCGCCAGAGGGATCCGTCCAGGGCTGATTAAGCATACGCACCATGATATGGATGTTGATAAGCCAGGCAAAGATAGCTATGAGCTGCGCAAGGCTGGCGCGGCACAAACCATCGTTGCCAGCCAGCAACGATGGGCCTTGATGACGGAAACACCAGACGAAGAAGAGCTGGATCTACAGTTTCTCGCAAGTCGAATGGATACCTCAAAGCTGGATTTGATTCTGGTCGAAGGGTTTAAGCATGAAGAGATCGCAAAGATTGTGCTGTTTCGCGATGGAGCCGGACATCGACCTGAAGAATTAGTGATAGACAGGCATGTTATTGCTGTAGCCAGTGATGTGCCGCTTAATCTTGATGTCGCATTACTGGATATTAATGATGTTGAGGGGCTGGCTGATTTTGTGGTGGAGTGGATGCAAAAGCAGAACGGATAAGCAAGAGTAGGCTGGATAAGACGCGCCAGCGTCGCATCCGGCATTTTTTTCTGCGCCAATGCAAAAAGGCCATCCGTCAGGATGGCCTTCTGCTTAATTTGATGCCTGGCAGTTTATGGCGGGCGTCCTGCCCGCCACCCTCCGGGCCGTTGCTTCGCAACGTTCAAATCCGCTCCCGGCGG"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP069924.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 24",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 14",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integron",
+          "swatchColor": "rgba(128,0,128,0.3)",
+          "decoration": "arc"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "Acyltransferase transferase activity, transferring acyl groups",
+        "start": 1,
+        "stop": 429,
+        "strand": 1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DUF945 Bacterial protein of unknown function (DUF945)",
+        "start": 470,
+        "stop": 1900,
+        "strand": -1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DSBA Required for disulfide bond formation in some periplasmic proteins such as PhoA or OmpA. Acts by transferring its disulfide bond to other proteins and is reduced in the process. DsbA is reoxidized by DsbB",
+        "start": 2054,
+        "stop": 2680,
+        "strand": -1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "APH A protein kinase that phosphorylates Ser and Thr residues. Probably acts to suppress the effects of stress linked to accumulation of reactive oxygen species. Probably involved in the extracytoplasmic stress response",
+        "start": 2697,
+        "stop": 3683,
+        "strand": -1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "DUF1040 Protein of unknown function (DUF1040)",
+        "start": 3760,
+        "stop": 4029,
+        "strand": -1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "NTP_transf_3 Transfers a GMP moiety from GTP to Mo-molybdopterin (Mo- MPT) cofactor (Moco or molybdenum cofactor) to form Mo- molybdopterin guanine dinucleotide (Mo-MGD) cofactor",
+        "start": 4099,
+        "stop": 4683,
+        "strand": 1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "MobB GTP-binding protein that is not required for the biosynthesis of Mo-molybdopterin guanine dinucleotide (Mo-MGD) cofactor, and not necessary for the formation of active molybdoenzymes using this form of molybdenum cofactor. May act as an adapter protein to achieve the efficient biosynthesis and utilization of MGD. Displays a weak intrinsic GTPase activity. Is also able to bind the nucleotides ATP, TTP and GDP, but with lower affinity than GTP",
+        "start": 4665,
+        "stop": 5192,
+        "strand": 1,
+        "contig": "NZ_CP069924.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}

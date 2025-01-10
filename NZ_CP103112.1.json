@@ -1,0 +1,216 @@
+{
+  "cgview": {
+    "version": "1.1.0",
+    "created": "2024-12-05 07:05:26",
+    "id": "NZ_CP103112.1",
+    "name": "NZ_CP103112.1",
+    "geneticCode": "11",
+    "settings": {
+      "backgroundColor": "white",
+      "showShading": true,
+      "arrowHeadLength": 0.3
+    },
+    "backbone": {
+      "thickness": 0.1,
+      "color": "white",
+      "colorAlternate": "rgb(200, 200, 200)"
+    },
+    "ruler": {
+      "font": "sans-serif, plain, 10",
+      "color": "black"
+    },
+    "dividers": {
+      "slot": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      },
+      "track": {
+        "thickness": 1,
+        "color": "black",
+        "spacing": 1
+      }
+    },
+    "annotation": {
+      "font": "sans-serif, plain, 12",
+      "onlyDrawFavorites": true
+    },
+    "sequence": {
+      "font": "sans-serif, plain, 14",
+      "color": "black",
+      "contigs": [
+        {
+          "id": "NZ_CP103112.1",
+          "name": "NZ_CP103112.1",
+          "orientation": "+",
+          "length": 3811,
+          "seq": "ATGGCAAAACAAACCTCCATCAACGTGCAGCCGGTCAAAGGTGGCAGCGAGGAACACAACAAGCGCAAGAAGAAGCTTGACTACGTTCGCAAGGACTTGTCCCACCTCAACGAATATTGGGAGTGCGACACACAGGCCAACCGCCTTGCCAACATCAAAGCCCTGTACCAATCCAAGACAGGGCAGAAGATGCAAGCCAAGGCAACCCCAATCCGTGAGGGTGTTGTCGTGATCCAAGAGAGTACTACCATGGCAGACCTCCACCGATTGGCCGATGCTTATCGCGATCGGCTCGGCATCGAGGTCTTTCAAATCGCTATCCATCGGGACGAGGGCTATCAGAAATCCAAGGATTGGAAGCCCAACCTCCATGCGCATCTTGTGTTTGACTGGACAAACCACAGCACAGGCAAGTCTGTTAAACTGAACCGTCAAAAGATGGCCGAAATGCAGACCATAACAGCCGAAGTCCTGGGCATGGAGCGAGGACAGAGCAGCGAGAAAAAGCACTTAACGGCACAACAATTCAAAGCAGCAGCAGAAGCCCAGCGAGCCGAACAACTAAAAGAACAGGTAGCGGAACTCAGTACGGCCAAGGCAGCCAAAGAGGAAACCATTAACACAATCAAGACAGTGGGCAAATATGTTGTGGATGCAGTTACAGGTAAGGCAAAAGCCAAGGAAAATGCCCTACAAGAGCGTGTAACGAAGTTGGAGGTACAACTACCAACCGAAAGAGAAAAAGGCCGTCAGGAGGGCGGAAAACAGGTTTTACAGGCTATTCTGAGTGCTGCACGCTTGAAGCTGGAAGACCTGACTCCCGAAAACATCGGAAAGCGGTGGAGATTGTGGTTTGACAAAGCCAAATCGCTGGAACAGGAGGTAAAGCAGCTCAAAGAAGCCGCAGAAGCCCAAAAAGAAGCCGCCTATTGGGCTAAAATCAATTTCGGGAATGAGAGGTACCGCGAAGGCTTAAAAGGCTCTCAGACGCGAATTAAAGGGCTTGAAGAAGATGTAGCCGAACTGATACGGGAGTATGCCCATGGTGACCCCGATGTGCTGCGGCACTACTCCACCCCGAGAGAAGAACGGCTATTCATGTCACCCAAGGAACTGGAACAGCAGGAGGCCGAACGGAAGAAAAGAGAACAAGAGGGAAAAAAGAAAGCACCGCAAGTCACCGAAGCTCCCAAACAAGAACGGCAAGAAGAACAGAAACGCTCATGGGGATTCAGACGCTAACGCTAAAAAAGAGTGGGCTACACTACGATAGCTCACTCTTTTTCTGTTTTTACTTGTCGCTATAATGTCCCTCTGCGGAAATCACAAACACATTCACGACCTCTTCATAGATTTCGTAAACAAGCCTGTCTTTCTTGTTCACTTCCCTTGAATAGACGTTTCCTCCGTACCCTTTCAATGCTTCTGGATGCCCTGTTCCCGTTCGGGGATGCTCATGCAGTTCTTCGATGAATTTCGTAATCTTCTTGAAAGATGCAGGATTAGACCTTTTGAATTTCGCAATGGAGGCCAAGGCTTCCTCGCTGTATGTAACGCTATACATGGGCTACAACGATTCAAGTAAAGCCATGGACTGCTCAACAGTCTTGCAAGTTACACCTTTTCCAGCCTTGTAATCTTCCCTCGCCTTTGCAATCTTCTCTCTGAACTCGTCACTGATAGTATAATCATCTTCATGGATTGGAACAATCATATAAGATTTTCTTATGCCACGATGAATTACAATATCCTCACCAGCATCAGCCTTGTCCAAAATCAGAGCTTGCTTTGTTCTCAATTCTCTTGTTGTGTAATCGAATGTTGCCATAATGTTACTGCTTTTAGATTTACGCTACAAAGATAAGAAAAACTTTCGGTGCTACCAAATGGTACACGGCATAAAAAGCTCTCCCTTAACCTCACTCCGTTCGGGTTACCAATTCCCCCATGTTGCGAAGCTTTTTCTTTCCCCTCTTTTTTTGAAGACAAAAAACAAGCCCAAAAGCAGGCAAAAGGAGCGAAGCGACCCACTAAAAAGCTCCTAAAAACCCCGCGCTTTTTACCAAAGTAGTTTTTAGTACCTTTTTAGTACCTTTTTCCGCTCAAAATTTTAACATTTAAAGTAGCTGATTATCAACAACTTAAAGACGCGTTTTTTTTTTGAATTGCGACTTTTTCGTAAGGCAATTGCGACTTTTTCGTAAGCAATTGCGACTTTTTCGTAAGATTTCGGGGTTTTTGCGACAATAACTTTGCGACTATCTTTTTGTTTTGTTGTATTTTTGTATATTTGCACCTACAAACCACCAAAACAACCCAACAATGTTTCATCAATTAAAATGGTAGCCATGAGCGAAAAGAAAAAAGACATCGCATTGTGCCAAGACAATGTACTCACCGAAAGCAGATACAATTTTAACAGAATTGAAAAGAATTGCCTGTACAAAATCATTGAGCAGGTAAGAAATGAATATGTCGAAGGGTCTGCAAAAGAAAATGGAGGCATTCAGAATATGTTCGTAACCATACAGCAAGAGGAACTAGAGCAAATTACAGACAAAACCCACAAAAAAGATGCCCATGATGCACTTATAAAGCTTCGTAAACGAGACATCGAGATTTGGAAAGAAGATGGCAGCTGGTTTAACTGCGGCTTTGTCAACTGGTGCGAATACGATGCCAATACAAAATCCTACAAGGTTGAAGTATCATACCGTATCATGCCTTACCTTGTGGAGTTGGCACGACAATATACAACCTACTCTTTGACTGTCGCAATCACACTGAAAAGCGTCTATTCTCAAAGGTTCTATGAATTATGCTGCCAATATCGCAACCGAATAGAAAACGACGGATTAGCAGGATTCCACAAAACACAGCAGCAACTTCGGGAAATGTTCTGCTTGGAGGATAAATACCCTAACAGTAACGACTTCAATAAACGTGTCATCAAGAAAGCACAAGATGAACTCAAAGCCAGCTACGACGAAAAGCAATGCGATTTGTACTTTGACGTAAACATCAAGGGGCGAGGTTCTGAAATGTGTTACGATTTCAAGATAGAGGTTCTGAAATGTGTTACGATTTCAAGATACACACCCGAGAGCAAAGCGAACGGCAGAAACAAGTCTTTGAAGACTGTCGGAAAAAATGGATTTACATTCAGCAGGAACTTCTTTCTATCTACAAGAGAGACCCTAAGTTTGTACAGCGGGTAATGAAACAATTAGACTTCCATCCAAACCTTATAGACCCAGTTCTTGGCAAGTTGATGAAGGCCAAACAAGAATTAAAGGGGGCTGACTTGGCAAAGCTTCTGCGCTTCATTCTCAAAGAAGATTTCAATTTGGACTGAACCAGAAAAAGCATATCTTTGTGATTGAAACTAAAACTTTCAATTATGGAATTACTTGTAGTTTTGATTATTTGGTGTCTATATTGTCACTTCTTTGTAAAGCCATACGAAGCTCGAAAAAAGATGGAAGTGAAAAAGAAAAAGCGCAAGAAAAGGGAATCGTTTTTACGGATGTTCTTTTTTAGAGAAAAGTCTGATTACGAAAAGCTGTGTGACGATGGCAGCAAATTTTATGAGTAAAGGGAAAAGCAAAAGCCTCTTCAAATGTTCCTCGGTATGGAATGTTCGGAGAGGCTTTTCTTGTTACAATCGGAAGAAATCGCTACCTTTGCGCGTGAATAATCCAAGTGTGCGGATATAGCACACTATAACCCTTGCAGGGTTGTGTGCTCTCCGAGGGGGCAGGGGCAAGCCCCTACCGACCCCATGGCCGCCCGACACTAAAAACGTAACACT"
+        }
+      ]
+    },
+    "captions": [
+      {
+        "name": "NZ_CP103112.1",
+        "position": "bottom-center",
+        "font": "sans-serif, plain, 10",
+        "fontColor": "black",
+        "backgroundColor": "rgba(255,255,255,0.4)"
+      }
+    ],
+    "legend": {
+      "position": "top-right",
+      "textAlignment": "left",
+      "defaultFont": "sans-serif, plain, 10",
+      "defaultFontColor": "black",
+      "backgroundColor": "rgba(255,255,255,0.75)",
+      "items": [
+        {
+          "name": "Defense",
+          "swatchColor": "rgba(239,71,111,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Antidefense",
+          "swatchColor": "rgba(255,209,102,0.8)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "PDC",
+          "swatchColor": "rgba(17,138,178,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "AMR",
+          "swatchColor": "rgba(6,214,160,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Integrase",
+          "swatchColor": "rgba(138,201,38,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "Other MGE gene",
+          "swatchColor": "rgba(50,50,50,0.5)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "CDS",
+          "swatchColor": "rgba(10,10,10,0.2)",
+          "decoration": "arrow"
+        },
+        {
+          "name": "MGE",
+          "swatchColor": "rgba(0,0,255,0.3)",
+          "decoration": "arc"
+        }
+      ]
+    },
+    "features": [
+      {
+        "type": "CDS",
+        "name": "mobileOG_000312503|mob|WP_107623855.1|transfer|conjugation,relaxosome|Plasmid - Psort location Cytoplasmic, score 8.96",
+        "start": 1,
+        "stop": 1242,
+        "strand": 1,
+        "contig": "NZ_CP103112.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000177610|relK|A0A5M5AES5|stability/transfer/defense|NA|GPD|Homology YoeB_toxin addiction module toxin, Txe YoeB family",
+        "start": 1292,
+        "stop": 1564,
+        "strand": -1,
+        "contig": "NZ_CP103112.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000413298|NA:Keyword|A0A2A4YVB5|stability/transfer/defense|NA|COMPASS|Keyword PhdYeFM_antitox -",
+        "start": 1568,
+        "stop": 1828,
+        "strand": -1,
+        "contig": "NZ_CP103112.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "mobileOG_000395421|NA:Keyword|A0A414F2U8|replication/recombination/repair|initiation,copy Rep_3 Initiator Replication protein",
+        "start": 2349,
+        "stop": 3218,
+        "strand": 1,
+        "contig": "NZ_CP103112.1",
+        "legend": "Other MGE gene",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      },
+      {
+        "type": "CDS",
+        "name": "None None",
+        "start": 3401,
+        "stop": 3595,
+        "strand": 1,
+        "contig": "NZ_CP103112.1",
+        "legend": "CDS",
+        "favorite": false,
+        "showLabel": false,
+        "labelPlacement": "none"
+      }
+    ],
+    "featureSlots": {
+      "spacing": 10
+    },
+    "tracks": [
+      {
+        "name": "GC Skew",
+        "thicknessRatio": 2,
+        "position": "both",
+        "dataType": "plot",
+        "dataMethod": "sequence",
+        "dataKeys": "gc-content",
+        "plotStyle": "line",
+        "color": "purple"
+      },
+      {
+        "name": "Features",
+        "separateFeaturesBy": "None",
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "CDS",
+        "thicknessRatio": 1,
+        "showLabels": true
+      },
+      {
+        "name": "Systems",
+        "thicknessRatio": 0.1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "highlight",
+        "showLabels": true,
+        "labelPlacement": "default"
+      },
+      {
+        "name": "MGEs",
+        "thicknessRatio": 1,
+        "position": "both",
+        "dataType": "feature",
+        "dataMethod": "type",
+        "dataKeys": "MGE",
+        "showLabels": true
+      }
+    ]
+  }
+}
